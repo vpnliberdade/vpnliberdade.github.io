@@ -1218,7 +1218,7 @@ Agora você está equipado com dicas avançadas pra tirar o máximo da sua VPN. 
 Termos como "software de acesso" e "VPN" ajudam a lidar com restrições regionais, mas servem propósitos diferentes e têm diferenças chave.
 
 #### 1. Software de Acesso (ex.: Shadowsocks, Lantern, V2Ray)
-Ferramentas especializadas criadas principalmente pra evadir censura em redes altamente restritas. Elas disfarçam o tráfego pra parecer navegação HTTPS/web normal, tornando mais difícil detectar/bloquear que VPNs tradicionais.  
+Ferramentas especializadas criadas principalmente para manter conexão em redes altamente restritas. Elas disfarçam o tráfego pra parecer navegação HTTPS/web normal, tornando mais difícil detectar/bloquear que VPNs tradicionais.  
 - Vantagens: Geralmente mais leves, mais rápidos em ambientes censurados, mais furtivos contra inspeção profunda de pacotes.  
 - Desvantagens: Normalmente sem criptografia completa de todo tráfego, privacidade limitada (podem logar ou vazar metadados), não são "redes privadas" verdadeiras.
 
@@ -1317,7 +1317,7 @@ Esses quatro entregam consistentemente nos nossos testes de 2026 — ExpressVPN 
 
 Quando se trata de segurança online e lidar com restrições regionais, há muitas ferramentas além de VPNs básicas. Duas categorias populares são VPNs completas e soluções baseadas em proxy como SSR. Ambas ajudam a proteger seu tráfego, mas funcionam diferente e atendem necessidades diferentes.
 
-Uma **VPN** verdadeira (Rede Privada Virtual) criptografa **todo** o tráfego do seu dispositivo de ponta a ponta entre seu aparelho e o servidor VPN, tornando extremamente difícil pra provedores, governos ou hackers interceptar ou ler seus dados. **SSR** (ShadowsocksR) é uma ferramenta proxy que encaminha tráfego por túneis criptografados pra evadir detecção — é mais leve e muitas vezes mais furtiva contra censura profunda, mas geralmente não criptografa tudo no seu dispositivo como uma VPN completa.
+Uma **VPN** verdadeira (Rede Privada Virtual) criptografa **todo** o tráfego do seu dispositivo de ponta a ponta entre seu aparelho e o servidor VPN, tornando extremamente difícil pra provedores, governos ou hackers interceptar ou ler seus dados. **SSR** (ShadowsocksR) é uma ferramenta proxy que encaminha tráfego por túneis criptografados para reduzir detecção em redes restritas — é mais leve e muitas vezes mais furtiva contra censura profunda, mas geralmente não criptografa tudo no seu dispositivo como uma VPN completa.
 
 **Computação Heterogênea (Setups Multi-Ferramenta)**  
 Hoje, muitos usuários avançados combinam ferramentas — VPN + SSR + V2Ray + Trojan — conhecido como **computação heterogênea**. Isso distribui carga de criptografia, aproveita forças diferentes (velocidade de uma, furtividade de outra) e fornece redundância se uma for bloqueada. É poderoso pra ambientes de alto tráfego ou altamente restritos, mas adiciona complexidade.
@@ -1330,7 +1330,7 @@ Pra maioria das pessoas burlando restrições:
 **Resumo Final**: Pra simplicidade, confiabilidade e proteção ampla, uma VPN premium paga ainda é a escolha mais fácil e direta pra não especialistas. Mantenha backups (SSR/V2Ray) prontos pra dias difíceis.
 
 #### SSR (ShadowsocksR)
-ShadowsocksR (SSR) é uma ferramenta proxy projetada pra burlar censura e filtros. Roteia tráfego por túneis criptografados que parecem HTTPS normal, dificultando monitoramento por provedores ou governos. Como fork aprimorado do Shadowsocks original, é considerado mais seguro e eficiente — popular entre usuários focados em privacidade em regiões restritas.
+ShadowsocksR (SSR) é uma ferramenta proxy projetada para lidar com filtros e redes restritas. Roteia tráfego por túneis criptografados que parecem HTTPS normal, dificultando monitoramento por provedores ou governos. Como fork aprimorado do Shadowsocks original, é considerado mais seguro e eficiente — popular entre usuários focados em privacidade em regiões restritas.
 
 #### V2Ray
 V2Ray é uma ferramenta de roteamento open-source poderosa pra encaminhamento seguro de tráfego e evasão de censura. Suporta Windows, macOS, Linux, Android, além de extensões Chrome/Firefox. Protocolos incluem VMess, Shadowsocks, Socks, HTTP/Socks, VLESS, com ofuscação obfsproxy pra esconder tráfego. Lida com UDP/TCP/HTTP/Socks5, inclui servidor web embutido pra arquivos estáticos e cria túneis criptografados. Altamente customizável — ótimo pra usuários avançados.
@@ -1359,7 +1359,7 @@ Originalmente nome de malware, Trojan foi repurposto como ferramenta legítima d
 - **Percepção**: Muitas vezes ligado a atividades ilegais (embora a maioria do uso seja privacidade legítima).
 
 **Quando Escolher Qual**  
-- **VPN** pra velocidade, streaming, games, privacidade geral e burlar geo-restrições.  
+- **VPN** pra velocidade, streaming, games, privacidade geral e lidar com geo-restrições.  
 - **Tor** pra anonimato máximo (ex.: denunciantes, jornalistas em áreas de alto risco) ou acessar serviços ocultos.  
 Muitos combinam: VPN pro dia a dia + Tor Browser pra sessões sensíveis.
 
@@ -1760,7 +1760,7 @@ Alguns apps e serviços detectam e limitam conexões VPN ativamente por motivos 
 - Use servidores otimizados pra streaming/P2P quando disponível.
 - Ative modos ofuscação/camuflagem.
 - Rotacione servidores com moderação (evite trocas rápidas).
-- Split tunnel apps não sensíveis (banco, social) pra burlar VPN.
+- Split tunnel apps não sensíveis (banco, social) fora da VPN quando necessário.
 - Se bloqueado, contate suporte — VPNs premium geralmente têm fixes dedicados.
 
 ## BitTorrent com VPN – Setup & Melhores Práticas
