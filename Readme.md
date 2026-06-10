@@ -53,6 +53,26 @@ O menor preço mensal geralmente aparece em planos longos. Antes de comprar, olh
 | [Surfshark](https://surfy-chinaz.com/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) | Aparelhos ilimitados | Família, casa com várias telas | Melhor preço costuma exigir plano longo. |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) | Teste curto | Verificar compatibilidade rapidamente | Menos conhecida; teste na sua região. |
 
+## Plataformas e cenários para testar antes de pagar
+
+No Brasil e em Portugal, VPN costuma ser comprada por streaming, futebol, viagem e Wi-Fi público. A melhor escolha não é a que promete tudo, mas a que funciona no seu aparelho, na sua rede e com as plataformas que você realmente usa.
+
+| Cenário | Plataformas para testar | VPN sugerida para começar |
+|---|---|---|
+| Brasil do exterior | Globoplay, CazéTV, canais locais, serviços bancários | [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=local_platforms) / [ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063) |
+| Portugal e Europa | RTP Play, SIC, TVI, Sport TV, serviços da UE | ExpressVPN / StrongVPN |
+| Streaming internacional | Netflix, Disney+, Prime Video, Max | ExpressVPN pela estabilidade; Surfshark para várias telas |
+| Família e muitos aparelhos | celular, notebook, tablet, Smart TV, Fire TV | [Surfshark](https://surfy-chinaz.com/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) |
+| Teste curto | verificar velocidade, login e streaming antes de assinar | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) |
+
+### Checklist de teste durante o reembolso
+
+1. Teste em casa, no 4G/5G e em uma rede pública.
+2. Abra Globoplay, Netflix, Disney+, Prime Video e o app esportivo que você usa.
+3. Troque de servidor se aparecer erro de região.
+4. Veja pelo menos 15-30 minutos para checar travamentos.
+5. Se o uso principal não funcionar, compare outra VPN antes do fim do prazo de reembolso.
+
 ## Teste diário de velocidade VPN
 
 Velocidade de VPN muda por horario, protocolo, servidor, país e internet local. Por isso, uma captura isolada não basta. Mantemos testes repetidos e observamos médias de 7, 14, 30 e 90 dias.
@@ -657,7 +677,7 @@ Teste o provedor com os serviços que você realmente usa e avalie velocidade re
 No mundo de hoje, com restrições de rede cada vez mais apertadas, foque nesses fatores comprovados — os que realmente importam pra estabilidade a longo prazo, velocidade e privacidade.
 
 #### 1. Apenas Marcas Estáveis e Bem Financiadas
-Com as restrições ficando mais inteligentes e agressivas, protocolos antigos como PPTP são detectados e bloqueados na hora. Uma vez que um IP é marcado, geralmente morre pra sempre — mesmo problema com soluções auto-hospedadas como SSR.  
+Com as restrições ficando mais inteligentes e agressivas, protocolos antigos como PPTP são detectados e bloqueados na hora. Uma vez que um IP é marcado, geralmente morre pra sempre — mesmo problema com servidores saturados ou IPs compartilhados.  
 Só marcas grandes, estabelecidas, com bolsos fundos e times de engenharia dedicados conseguem se adaptar rápido às mudanças de rede, atualizar servidores e manter conexões confiáveis ao longo do tempo. Por isso ficamos só com os jogadores comprovados.
 
 #### 2. Testes Pessoais no Mundo Real & Uso Diário
@@ -1212,27 +1232,18 @@ Agora você está equipado com dicas avançadas pra tirar o máximo da sua VPN. 
 **Conclusão**: Impacto na velocidade varia muito por provedor, protocolo, escolha de servidor e sua conexão base. VPNs premium (ExpressVPN, Surfshark, StrongVPN) mantêm perdas mínimas — geralmente 5–20% em setups bons — enquanto entregam excelente privacidade e acesso. Teste com "Servidor Mais Rápido" + WireGuard, e você mal vai notar diferença pra streaming 4K, games ou downloads.
 
 
-### Diferenças Entre "Software de Acesso" & VPNs Verdadeiras
-<a name="differences-between-access-software-and-vpns"></a>
+### O que fazer quando streaming bloqueia a VPN
 
-Termos como "software de acesso" e "VPN" ajudam a lidar com restrições regionais, mas servem propósitos diferentes e têm diferenças chave.
+Serviços de vídeo bloqueiam IPs de VPN o tempo todo. Se um servidor falhar, teste outro antes de concluir que a VPN não presta.
 
-#### 1. Software de Acesso (ex.: Shadowsocks, Lantern, V2Ray)
-Ferramentas especializadas criadas principalmente para manter conexão em redes altamente restritas. Elas disfarçam o tráfego pra parecer navegação HTTPS/web normal, tornando mais difícil detectar/bloquear que VPNs tradicionais.  
-- Vantagens: Geralmente mais leves, mais rápidos em ambientes censurados, mais furtivos contra inspeção profunda de pacotes.  
-- Desvantagens: Normalmente sem criptografia completa de todo tráfego, privacidade limitada (podem logar ou vazar metadados), não são "redes privadas" verdadeiras.
+- Troque para outro servidor no mesmo país.
+- Limpe cookies ou use outro navegador.
+- Confira DNS/WebRTC.
+- No celular, verifique permissões de localização.
+- Teste no horário em que você realmente assiste futebol, séries ou notícias.
 
-#### 2. VPN (Rede Privada Virtual)
-Solução completa que cria um túnel criptografado pra **todo** o tráfego do seu dispositivo, escondendo seu IP, criptografando dados de ponta a ponta e protegendo contra espionagem em Wi-Fi público ou por provedores.  
-- Vantagens: Privacidade/segurança abrangente, políticas no-logs, kill switch, suporte multi-dispositivos, ótimo pra streaming/P2P.  
-- Desvantagens: Pode ser mais fácil detectar/bloquear em censura extrema (embora modos ofuscados ajudem), pequena perda de velocidade pela criptografia.
+Para Brasil e Portugal, isso é mais útil que ferramentas técnicas de proxy. O que importa é saber se a VPN abre suas plataformas dentro do prazo de reembolso.
 
-**Resumo Rápido**  
-- Precisa de furtividade pra vencer firewalls pesados? Ferramentas de acesso como Shadowsocks brilham.  
-- Quer criptografia completa, privacidade e versatilidade (streaming, torrent, segurança em Wi-Fi público)? Vá de VPN premium.  
-A maioria dos usuários ganha mais com uma boa VPN paga — cobre 90%+ das necessidades sem as limitações de ferramentas de nicho.
-
-<a name="advanced-vpn-uses-compatibility"></a>
 ## Usos Avançados & Compatibilidade de VPN
 
 ### Por Que & Como Rotacionar/Trocar Provedores de VPN Regularmente pra Mais Segurança
@@ -1313,30 +1324,16 @@ Esses quatro entregam consistentemente nos nossos testes de 2026 — ExpressVPN 
 
 
 <a name="introduction-to-common-vpn-protocols"></a>
-## Introdução aos Protocolos Comuns de VPN & Ferramentas
+## Protocolos VPN para uso diário
 
-Quando se trata de segurança online e lidar com restrições regionais, há muitas ferramentas além de VPNs básicas. Duas categorias populares são VPNs completas e soluções baseadas em proxy como SSR. Ambas ajudam a proteger seu tráfego, mas funcionam diferente e atendem necessidades diferentes.
+Comece pelo modo automático do aplicativo. Só troque protocolo se a velocidade cair, se o app de streaming falhar ou se a rede do hotel/escola bloquear a conexão.
 
-Uma **VPN** verdadeira (Rede Privada Virtual) criptografa **todo** o tráfego do seu dispositivo de ponta a ponta entre seu aparelho e o servidor VPN, tornando extremamente difícil pra provedores, governos ou hackers interceptar ou ler seus dados. **SSR** (ShadowsocksR) é uma ferramenta proxy que encaminha tráfego por túneis criptografados para reduzir detecção em redes restritas — é mais leve e muitas vezes mais furtiva contra censura profunda, mas geralmente não criptografa tudo no seu dispositivo como uma VPN completa.
-
-**Computação Heterogênea (Setups Multi-Ferramenta)**  
-Hoje, muitos usuários avançados combinam ferramentas — VPN + SSR + V2Ray + Trojan — conhecido como **computação heterogênea**. Isso distribui carga de criptografia, aproveita forças diferentes (velocidade de uma, furtividade de outra) e fornece redundância se uma for bloqueada. É poderoso pra ambientes de alto tráfego ou altamente restritos, mas adiciona complexidade.
-
-Pra maioria das pessoas burlando restrições:
-- Ferramentas como V2Ray, Shadowsocks ou Trojan são ótimas pra servidores auto-hospedados mas exigem setup técnico e IPs podem ser bloqueados rápido.
-- Shadowsocks/SSR são amigáveis e open-source, mas código público facilita detecção por filtros ao longo do tempo.
-- Um estudo de 2019 da Universidade de Pequim sobre detecção de tráfego V2Ray mostrou que censores avançados identificam padrões — eficácia cai se filtros atualizam.
-
-**Resumo Final**: Pra simplicidade, confiabilidade e proteção ampla, uma VPN premium paga ainda é a escolha mais fácil e direta pra não especialistas. Mantenha backups (SSR/V2Ray) prontos pra dias difíceis.
-
-#### SSR (ShadowsocksR)
-ShadowsocksR (SSR) é uma ferramenta proxy projetada para lidar com filtros e redes restritas. Roteia tráfego por túneis criptografados que parecem HTTPS normal, dificultando monitoramento por provedores ou governos. Como fork aprimorado do Shadowsocks original, é considerado mais seguro e eficiente — popular entre usuários focados em privacidade em regiões restritas.
-
-#### V2Ray
-V2Ray é uma ferramenta de roteamento open-source poderosa pra encaminhamento seguro de tráfego e evasão de censura. Suporta Windows, macOS, Linux, Android, além de extensões Chrome/Firefox. Protocolos incluem VMess, Shadowsocks, Socks, HTTP/Socks, VLESS, com ofuscação obfsproxy pra esconder tráfego. Lida com UDP/TCP/HTTP/Socks5, inclui servidor web embutido pra arquivos estáticos e cria túneis criptografados. Altamente customizável — ótimo pra usuários avançados.
-
-#### Trojan
-Originalmente nome de malware, Trojan foi repurposto como ferramenta legítima de segurança pra roteamento de tráfego criptografado e evasão. Imita tráfego HTTPS pra furtividade, mas exige configuração cuidadosa pra evitar riscos e maximizar privacidade. Melhor pra quem entende de setup.
+| Protocolo | Melhor uso | Observação |
+|---|---|---|
+| WireGuard / Lightway | streaming e velocidade | geralmente a primeira escolha |
+| OpenVPN UDP | equilíbrio entre velocidade e estabilidade | bom para Wi-Fi doméstico |
+| OpenVPN TCP | redes públicas ou restritivas | pode ser mais lento, mas conecta melhor |
+| IKEv2 | celular e troca entre Wi-Fi/4G/5G | útil para viagem |
 
 ### Diferenças & Casos de Uso: VPN vs. Tor
 <a name="differences-and-use-cases-vpn-vs-tor"></a>
