@@ -75,9 +75,9 @@ No Brasil e em Portugal, VPN costuma ser comprada por streaming, futebol, viagem
 
 ## Copa do Mundo 2026: VPN para viagem, streaming e sorteio de ingressos
 
-![Estádio de futebol à noite](https://upload.wikimedia.org/wikipedia/commons/1/1d/Worldcup_2010_Soccer_Stadium_at_night_-_panoramio.jpg)
+![Estádio de futebol à noite](./image/worldcup/world-cup-2026-stadium.png)
 
-*Photo: ngrund, CC BY 3.0, via Wikimedia Commons.*
+*Illustration created for this site.*
 
 A Copa do Mundo 2026 acontece de 11 de junho a 19 de julho nos Estados Unidos, Canadá e México. Para Brasil e Portugal, o interesse é claro: futebol, streaming, viagem, Wi-Fi de hotel/aeroporto e segurança ao acessar e-mail, banco e contas de ingresso fora de casa.
 
