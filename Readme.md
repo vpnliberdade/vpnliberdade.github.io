@@ -73,6 +73,24 @@ No Brasil e em Portugal, VPN costuma ser comprada por streaming, futebol, viagem
 4. Veja pelo menos 15-30 minutos para checar travamentos.
 5. Se o uso principal não funcionar, compare outra VPN antes do fim do prazo de reembolso.
 
+## Copa do Mundo 2026: VPN para viagem, streaming e sorteio de ingressos
+
+![Estádio de futebol à noite](https://upload.wikimedia.org/wikipedia/commons/1/1d/Worldcup_2010_Soccer_Stadium_at_night_-_panoramio.jpg)
+
+*Photo: ngrund, CC BY 3.0, via Wikimedia Commons.*
+
+A Copa do Mundo 2026 acontece de 11 de junho a 19 de julho nos Estados Unidos, Canadá e México. Para Brasil e Portugal, o interesse é claro: futebol, streaming, viagem, Wi-Fi de hotel/aeroporto e segurança ao acessar e-mail, banco e contas de ingresso fora de casa.
+
+ExpressVPN informa que é Official Supporter da FIFA World Cup 2026 e está promovendo um sorteio de 25 pares de ingressos, incluindo fases eliminatórias e um par para a Final. O sorteio é operado pela ExpressVPN; confira termos, disponibilidade e elegibilidade na página oficial.
+
+| Uso durante a Copa | Primeiro clique recomendado | Por quê |
+|---|---|---|
+| Campanha oficial e sorteio de ingressos | [Oferta ExpressVPN Copa 2026](https://go.expressvpn.com/c/3828265/1481161/16063) | Melhor encaixe com o gancho de Official Supporter |
+| VPN paga com preço mais equilibrado | [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=worldcup_block) | Boa para viagem, Wi-Fi público e uso diário |
+| Família e várias telas | [Surfshark](https://surfy-chinaz.com/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) | Útil para celular, notebook, tablet e TV |
+
+Antes dos jogos, teste em casa, no 4G/5G e em Wi-Fi público. Abra o app de streaming, verifique DNS/WebRTC e veja se a conexão fica estável por 15-30 minutos.
+
 ## Teste diário de velocidade VPN
 
 Velocidade de VPN muda por horario, protocolo, servidor, país e internet local. Por isso, uma captura isolada não basta. Mantemos testes repetidos e observamos médias de 7, 14, 30 e 90 dias.
