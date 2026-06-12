@@ -1153,7 +1153,7 @@ Embora áreas altamente restritas impulsionem mais o uso de VPN, pessoas em todo
 - **Irã**: Filtragem severa de redes sociais, notícias e apps — VPNs são necessidade diária.
 - **Turquia**: Bloqueios periódicos em Twitter/X, YouTube, Wikipedia — VPNs restauram acesso.
 - **Emirados Árabes/ Arábia Saudita**: Apps VoIP (chamadas WhatsApp, Skype, FaceTime) bloqueados — VPNs liberam.
-- **China** (continental): "filtros rígidos de rede" bloqueia quase tudo ocidental — VPNs são críticas.
+- **Países com filtros rígidos de rede**: algumas regiões bloqueiam redes sociais, notícias, apps de chamada ou serviços internacionais — verifique a lei local antes de viajar.
 - **Mesmo em países "livres"** (EUA, Reino Unido, Europa, Austrália, Taiwan, Japão etc.):
   - Privacidade contra rastreamento de provedor/anunciantes/governo.
   - Segurança em Wi-Fi público.
@@ -1726,7 +1726,7 @@ Computadores quânticos atuais (2026) estão longe de quebrar RSA 2048-bit — m
 #### Criptografia Pós-Quântica (PQC) & Crypto Quântica
 
 - **Algoritmos Pós-Quânticos**: Padronizados pelo NIST em 2024–2026 (Kyber, Dilithium, Falcon, SPHINCS+) — baseados em lattice, hash, código, resistentes a ataques quânticos. Muitas VPNs já estão migrando.
-- **Distribuição de Chaves Quânticas (QKD)**: Usa princípios quânticos (incerteza de Heisenberg, entrelaçamento) pra detectar espionagem. Teoricamente inquebrável — chaves distribuídas via fótons por fibra/satélite. Já implantado em pilotos na China/Europa; futuras VPNs podem integrar QKD.
+- **Distribuição de Chaves Quânticas (QKD)**: Usa princípios quânticos (incerteza de Heisenberg, entrelaçamento) pra detectar espionagem. Teoricamente inquebrável — chaves distribuídas via fótons por fibra/satélite. Já implantado em pilotos na Ásia/Europa; futuras VPNs podem integrar QKD.
 
 **Perspectiva**: Ameaças quânticas estão vindo — mas defesas também. VPNs premium estão adotando híbridos PQC agora. A corrida está rolando.
 
