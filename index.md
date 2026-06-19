@@ -93,7 +93,12 @@ Antes dos jogos, teste em casa, no 4G/5G e em Wi-Fi público. Abra o app de stre
 
 ## Nota sobre preço e moeda local
 
-Os preços mudam por país, impostos, moeda, duração do plano e campanha. Se o checkout não mostrar sua moeda local, use o valor em USD apenas como referência e confirme o total antes de pagar. Compare preço final, renovação, prazo de reembolso e número de dispositivos.
+Os preços mudam por país, impostos, moeda, duração do plano e campanha. Para o público em português, mostramos Real brasileiro e equivalente em USD como referência; em Portugal, o checkout pode mostrar EUR. Câmbio guia: 1 USD ≈ R$5,15 (19 de junho de 2026).
+
+- StrongVPN anual: aprox. R$20,45/mês (US$3,97/mês), ou R$245–278/ano (US$48–54/ano), antes de impostos.
+- Surfshark plano longo: aprox. R$10,25–11,85/mês (US$1,99–2,30/mês), mas confira impostos, extras e renovação.
+- ExpressVPN é premium e varia por plano/campanha. Se o checkout mostrar US$3,49/mês, equivale a cerca de R$18/mês; confirme o total final.
+- FlowVPN: confira trial e plano pago no checkout; se aparecer em USD, converta para BRL só como orientação.
 
 ## Teste diário de velocidade VPN
 
@@ -343,7 +348,7 @@ A única desvantagem real? É premium no preço — mas o desempenho justifica p
 - Aceita várias moedas, incluindo Bitcoin
 - Criptografia líder da indústria (AES-256-GCM, protocolo Lightway)
 
-**Oferta e preço**: A ExpressVPN hoje mostra planos e campanhas que podem variar por país, moeda local, impostos e duração. Antes de pagar, confira no checkout o preço total, renovação e garantia de reembolso. Eles aceitam cartões de crédito, PayPal, Bitcoin e mais.  
+**Oferta e preço**: A ExpressVPN hoje mostra planos e campanhas que podem variar por país, moeda local, impostos e duração. Se o checkout mostrar US$3,49/mês, isso equivale a cerca de R$18/mês; se mostrar outro valor em USD, converta antes de pagar. Confira preço total, renovação e garantia de reembolso no checkout.  
 Dica de ouro: Baixe o app no Android ou iOS primeiro pra um **teste grátis de 7 dias** (sem cartão em algumas regiões). Combine isso com a garantia total de 30 dias de devolução, e você testa a ExpressVPN completamente sem risco. Cancelamento é simples — sem perguntas, reembolso total se não atender suas necessidades.
 
 | Recurso                        | ExpressVPN                                      |
@@ -383,7 +388,7 @@ Surfshark brilha no desbloqueio: Netflix em ~20 bibliotecas (EUA, Reino Unido, J
 - Mais de 3.200 servidores em 65 países com conexões simultâneas ilimitadas
 - **Dispositivos ilimitados** — cubra toda a casa (celulares, notebooks, TVs etc.)
 - Garantia de devolução de 30 dias
-- Preço promocional de longo prazo costuma ser baixo em equivalente USD, mas muda por país, impostos e checkout
+- Preço promocional de longo prazo costuma ficar perto de R$10,25–11,85/mês (US$1,99–2,30/mês), mas muda por país, impostos e checkout
 - Surfshark Nexus (recursos avançados como IP Rotator pra trocar IP automaticamente a cada poucos minutos sem desconectar, e mais ferramentas adicionadas com o tempo)
 
 <a name="flowvpn-2-day-free-trial"></a>
@@ -444,7 +449,7 @@ Clique no nosso link especial pra pegar o melhor desconto: [StrongVPN](https://s
 Se o site não carregar ou a compra falhar (por exemplo, porque você já está em outra VPN ou em área restrita), use o **teste grátis de 2 dias da FlowVPN** pra contornar o problema com segurança.  
 Cadastre-se aqui: [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) (guia completo de setup mais adiante no artigo).  
 Conecte a um servidor do Reino Unido, depois volte ao link da StrongVPN.  
-O plano de 1 ano sai por apenas ~$43 USD no total (12 meses; na renovação, basta usar e-mail novo + nosso link de desconto toda vez).  
+O plano anual costuma ficar em torno de R$245–278/ano (US$48–54/ano), aprox. R$20,45/mês (US$3,97/mês), antes de impostos. Confirme total e renovação no checkout.  
 <img src="./image/strong/s3-1.png" alt="Plano de Preços StrongVPN" width="1000"/>
 
 ### Passo 3: Escolha Seu Método de Pagamento
@@ -488,8 +493,8 @@ Clique aqui: [Oferta ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/160
 | 6 Meses                         | $59.95     | $9.99                       |
 | Oferta oficial atual            | Ver checkout | Preço varia por país, moeda, impostos, duração e plano escolhido |
 
-### Passo 2: Garanta o Bônus de 12 Meses + 3 Meses Grátis
-Você vai ver a oferta matadora logo de cara: "Compre 12 meses, ganhe 3 meses grátis" — pague por 12, use 15 no total. (Dica de renovação: E-mail novo + nosso link na próxima vez pra repetir os descontos.)  
+### Passo 2: Confira a oferta oficial atual
+A página oficial pode mostrar planos e campanhas diferentes. Antes de pagar, confira preço total, moeda, impostos, renovação e termos de reembolso no checkout.  
 <img src="./image/exp/1-2.PNG" alt="Oferta Especial ExpressVPN" width="1000"/>
 
 ### Passo 3: Digite E-mail & Detalhes de Pagamento
@@ -533,7 +538,7 @@ Clique no nosso link de afiliado especial: [Surfshark – Conexões Ilimitadas](
 <img src="./image/surfshark/1-1.png" alt="Página Inicial Surfshark" width="1000"/>
 
 ### Passo 2: Garanta o Super Plano de 2 Anos
-Planos longos costumam ter o menor preço mensal anunciado, mas o total muda por campanha, impostos e moeda. Confira o valor final e a renovação antes de pagar.  
+Planos longos costumam ter o menor preço mensal anunciado. Referência: R$10,25–11,85/mês (US$1,99–2,30/mês), mas o total muda por campanha, impostos e moeda. Confira o valor final e a renovação antes de pagar.  
 <img src="./image/surfshark/2-1.PNG" alt="Oferta de 2 Anos Surfshark" width="1000"/>
 
 ### Passo 3: Digite E-mail & Finalize o Pagamento
@@ -914,9 +919,9 @@ O modo NoBorders/Camouflage da Surfshark lida com a maioria dos bloqueios, mas q
 4. **Protocolo**: WireGuard → OpenVPN UDP.
 5. **Chat ao Vivo**: Super responsivo pra ajustes customizados.
 
-### Expirou Após 15 Meses – Reutilizar o Desconto da ExpressVPN?
-O 12+3 meses grátis é só pra contas novas — renovações pagam preço cheio.  
-**Hack Profissional de Renovação (Funciona em 2026)**:
+### Antes de renovar ExpressVPN: confira o preço de novo
+Ofertas e renovações podem mudar por campanha, país e plano.  
+**Checklist de renovação em 2026**:
 1. Conta nova com e-mail fresco (use +alias tipo seunome+2@gmail.com ou ProtonMail).
 2. Use nosso link: [Oferta ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063) pra pegar a promo de novo.
 3. Instale fresco, depois transfira o uso.
@@ -1072,7 +1077,7 @@ VPNs grátis parecem tentadoras pra lidar com bloqueios regionais, mas quase sem
 
 **Exemplos do Mundo Real**: Usuários de VPNs grátis como Lantern, Hola, Betternet ou SuperVPN relataram vazamentos de dados, roubo de contas ou até multas em regiões rígidas. Uma única brecha pode custar muito mais que uma assinatura paga de $3–6/mês.
 
-**Resumo Final**: VPNs grátis não valem o risco. Invista numa premium — mesmo as mais baratas pagas (como Surfshark a ~$2/mês no longo prazo) entregam privacidade real, velocidade e confiabilidade.
+**Resumo Final**: VPNs grátis não valem o risco. Invista numa premium — mesmo as mais baratas pagas podem ficar perto de R$10–12/mês (US$1,99–2,30/mês) em planos longos, antes de impostos e renovação, entregando privacidade real, velocidade e confiabilidade.
 
 ## Por Que Não Recomendamos Criar Sua Própria VPN
 <a name="why-not-build-your-own-vpn"></a>
