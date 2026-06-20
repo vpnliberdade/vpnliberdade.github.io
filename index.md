@@ -95,9 +95,9 @@ Antes dos jogos, teste em casa, no 4G/5G e em Wi-Fi público. Abra o app de stre
 
 Os preços mudam por país, impostos, moeda, duração do plano e campanha. Para o público em português, mostramos Real brasileiro e equivalente em USD como referência; em Portugal, o checkout pode mostrar EUR. Câmbio guia: 1 USD ≈ R$5,15 (19 de junho de 2026).
 
-- StrongVPN anual: aprox. R$20,45/mês (US$3,97/mês), ou R$245–278/ano (US$48–54/ano), antes de impostos.
+- StrongVPN anual: aprox. R$20,45/mês (US$3,97/mês), ou cerca de R$246/ano (US$47,69/ano), antes de impostos.
 - Surfshark plano longo: aprox. R$10,25–11,85/mês (US$1,99–2,30/mês), mas confira impostos, extras e renovação.
-- ExpressVPN é premium e varia por plano/campanha. Se o checkout mostrar US$3,49/mês, equivale a cerca de R$18/mês; confirme o total final.
+- ExpressVPN é premium e varia por plano/campanha. Se o checkout mostrar US$2,49/mês, equivale a cerca de R$12,80/mês; confirme o total final.
 - FlowVPN: confira trial e plano pago no checkout; se aparecer em USD, converta para BRL só como orientação.
 
 ## Teste diário de velocidade VPN
@@ -348,7 +348,7 @@ A única desvantagem real? É premium no preço — mas o desempenho justifica p
 - Aceita várias moedas, incluindo Bitcoin
 - Criptografia líder da indústria (AES-256-GCM, protocolo Lightway)
 
-**Oferta e preço**: A ExpressVPN hoje mostra planos e campanhas que podem variar por país, moeda local, impostos e duração. Se o checkout mostrar US$3,49/mês, isso equivale a cerca de R$18/mês; se mostrar outro valor em USD, converta antes de pagar. Confira preço total, renovação e garantia de reembolso no checkout.  
+**Oferta e preço**: A ExpressVPN hoje mostra planos e campanhas que podem variar por país, moeda local, impostos e duração. Se o checkout mostrar US$2,49/mês, isso equivale a cerca de R$12,80/mês; se mostrar outro valor em USD, converta antes de pagar. Confira preço total, renovação e garantia de reembolso no checkout.  
 Dica de ouro: Baixe o app no Android ou iOS primeiro pra um **teste grátis de 7 dias** (sem cartão em algumas regiões). Combine isso com a garantia total de 30 dias de devolução, e você testa a ExpressVPN completamente sem risco. Cancelamento é simples — sem perguntas, reembolso total se não atender suas necessidades.
 
 | Recurso                        | ExpressVPN                                      |
@@ -449,7 +449,7 @@ Clique no nosso link especial pra pegar o melhor desconto: [StrongVPN](https://s
 Se o site não carregar ou a compra falhar (por exemplo, porque você já está em outra VPN ou em área restrita), use o **teste grátis de 2 dias da FlowVPN** pra contornar o problema com segurança.  
 Cadastre-se aqui: [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) (guia completo de setup mais adiante no artigo).  
 Conecte a um servidor do Reino Unido, depois volte ao link da StrongVPN.  
-O plano anual costuma ficar em torno de R$245–278/ano (US$48–54/ano), aprox. R$20,45/mês (US$3,97/mês), antes de impostos. Confirme total e renovação no checkout.  
+O plano anual costuma ficar em torno de cerca de R$246/ano (US$47,69/ano), aprox. R$20,45/mês (US$3,97/mês), antes de impostos. Confirme total e renovação no checkout.  
 <img src="./image/strong/s3-1.png" alt="Plano de Preços StrongVPN" width="1000"/>
 
 ### Passo 3: Escolha Seu Método de Pagamento
