@@ -5,7 +5,7 @@ description: "VPN Liberdade compara StrongVPN, ExpressVPN, Surfshark e FlowVPN p
 ---
 
 # Melhores VPNs 2026 para Brasil e Portugal: streaming, Wi-Fi público e testes diários
-**Última atualização: 17 de junho de 2026 - VPN Liberdade**
+**Última atualização: 21 de junho de 2026 - VPN Liberdade**
 
 VPN Liberdade é um guia prático para quem fala português e quer escolher uma VPN sem cair em promessa exagerada. O foco aqui e simples: streaming, futebol, viagens, Wi-Fi público, privacidade, preço real e velocidade medida com frequência.
 
@@ -93,7 +93,7 @@ Antes dos jogos, teste em casa, no 4G/5G e em Wi-Fi público. Abra o app de stre
 
 ## Nota sobre preço e moeda local
 
-Os preços mudam por país, impostos, moeda, duração do plano e campanha. Para o público em português, mostramos Real brasileiro e equivalente em USD como referência; em Portugal, o checkout pode mostrar EUR. Câmbio guia: 1 USD ≈ R$5,15 (19 de junho de 2026).
+Os preços mudam por país, impostos, moeda, duração do plano e campanha. Para o público em português, mostramos Real brasileiro e equivalente em USD como referência; em Portugal, o checkout pode mostrar EUR. Câmbio guia: 1 USD ≈ R$5,15 (21 de junho de 2026).
 
 - StrongVPN anual: aprox. R$20,45/mês (US$3,97/mês), ou cerca de R$246/ano (US$47,69/ano), antes de impostos.
 - Surfshark plano longo: aprox. R$10,25–11,85/mês (US$1,99–2,30/mês), mas confira impostos, extras e renovação.
@@ -138,22 +138,22 @@ Em geral, usar VPN para privacidade e segurança é legal no Brasil, em Portugal
 Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e comparações detalhadas por provedor.
 
 <!-- NEWS_START -->
-#### 17 de junho de 2026 - Notícia de vulnerabilidade no Android 16
+#### 21 de junho de 2026 - Notícia de vulnerabilidade no Android 16
 - **Novo bypass de VPN no Android 16 confirmado – E não há correção do Google**: Uma nova falha no Android 16 permite o bypass de VPNs, e não há ainda uma solução disponibilizada pela Google. [Fonte](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlBXLVB3ekNlcHJ2czlEOG82UHkxcHB4X2VMdWJtaHRfYjQwUmIwQmhxUE5BdG5QODNDTnRYbkwxRjJYWEk0NG52ZERXUjg2Zms2WThLTTR6YVBYZ05yRXVEeTl6dGRza05uYlhtcUt6OHpicWZFanVLdzJ3QXZPNm9Yc2kxM2hfdEtqVVp0eTdMcm40cnZveVFkdWVMaUtmUnlvYzhJcF9BNWJ3aHN5WE1VeVVkUQ?oc=5)
 
-#### 17 de junho de 2026 - Empresa de VPN pode deixar o Canadá
+#### 21 de junho de 2026 - Empresa de VPN pode deixar o Canadá
 - **Principal provedor de VPN diz que pode deixar o Canadá devido a projeto de lei de acesso legal**: Uma grande fornecedora de VPN ameaça sair do Canadá em resposta a um projeto de lei que demandaria acesso legal a dados de usuários. [Fonte](https://news.google.com/rss/articles/CBMiekFVX3lxTE5TcklGQ0xYR0pVazdWTDZ5R0paN0VWMXF0c1A5dHZHckxCWjVNQTdoM0pUQW5FVzdZWnMxVVQ2bnJpOWZSSW5oTkFadjhvRV9jX2hDNV9ycWNNX1NxeVpWc21xaERlMzItTFdZWUI4dHd0aXJiUER3ZHNn?oc=5)
 
-#### 17 de junho de 2026 - Mundial de Hóquei no Gelo
+#### 21 de junho de 2026 - Mundial de Hóquei no Gelo
 - **Como assistir ao Mundial de Hóquei no Gelo de 2026: Transmissões ao vivo GRATUITAS e canais de TV**: Confira como acompanhar o Campeonato Mundial de Hóquei no Gelo de 2026 gratuitamente de qualquer lugar. [Fonte](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXN4SGFOMGs0YWtHZVNpUERjVGpsTFJ2bngxWWtmQi04Rmoydk14Vm5aQlhtSnZESDJoM25BSmtTUUJtbUFmSG1XYXNfWGNFQTlDSG0xdExUdGk0YTE1UVVqZUptNFNRY1RPbFk5TFFLSUQ2b05JQlB0OTMxcmt1MFhDMVRpeFpiTm42NHpQSmJYSElrM3RBSXM0ZlUxTzN4dzdLZDln?oc=5)
 
-#### 17 de junho de 2026 - Assistindo Campeonato de Hóquei de 2026
+#### 21 de junho de 2026 - Assistindo Campeonato de Hóquei de 2026
 - **Como assistir à Team Canada no IIHF 2026 gratuitamente de qualquer lugar**: Este artigo fornece guias detalhados sobre como ver os jogos da Team Canada no IIHF 2026 sem custos adicionais. [Fonte](https://news.google.com/rss/articles/CBMilwFBVV95cUxPanEyN2taWjZtZmJybXBiQ1FKWmFJd0lrMmRWT0RQYkhmREpMMjFjTjA1bDdjQUFKeFl1T2o2cFhTWlIwX3liVzFaald2TTc5VGVzRVpTVEtncFFjWmRQRVcxV2hmOWVoMkVsbERpdFpFY3BHODVuNUcya3FKQk5Fcjh4RUpaWHJUWTA3cmxmVHJDOHp4Vklv?oc=5)
 
-#### 17 de junho de 2026 - Copa do Mundo de Futebol 2026
+#### 21 de junho de 2026 - Copa do Mundo de Futebol 2026
 - **Horários de TV da Copa do Mundo FIFA 2026 nos EUA: Transmissões ao vivo, canais, datas e horários de início**: Informação completa sobre como acompanhar a Copa do Mundo FIFA 2026 nos EUA, incluindo canais e programações. [Fonte](https://news.google.com/rss/articles/CBMiigFBVV95cUxObDVJbUh6aXRFc1hac0NULTN4cTR1a2w4WTN3VU9tdkFBcGdaYVFxaFhaNXZUMVJWbDc1SGdMcTZzNzFQdnFLVTR1U0pHUVhYY0xXUGMybzNROVkyR2lHdnZDTGdrNHNtVG16T0RBZlpNSFVhbHhDdlRTaUFaa2ZHMHB3eGNEaFhVb1E?oc=5)
 
-#### 17 de junho de 2026 - Assistindo Team USA no IIHF 2026
+#### 21 de junho de 2026 - Assistindo Team USA no IIHF 2026
 - **Como assistir à Team USA no IIHF 2026 gratuitamente de qualquer lugar**: Descubra como assistir aos jogos do Team USA no IIHF 2026 sem custo adicional, de qualquer parte do mundo. [Fonte](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWhpQ2lYOTNkbUw1emFPeWFZNlVmZThHN3MxVWYzMzJjNXVtWWt0d041VmlOcGkzcmRMNHpUT0dDbVlONXZSbVFXME5DRjhFZFBZT1dOQXZYV2hUNFJ1V1FsazdYMkR2dm5WbFIwel9jZ0hlbEFqeXVsVEhDbW5lUzNmVkpIM3FsTnFBaDlIay00Z3pDVkVlRkhR?oc=5)
 <!-- NEWS_END -->
 
@@ -193,7 +193,7 @@ Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e compara
 ### 16. [Melhores Recursos de VPN pra Games – Suba de Nível no Seu Jogo](#vpn-features-for-gaming)
 ### 17. [Guia Passo a Passo: Assistir Conteúdo Global de Streaming com uma VPN](#guide-to-streaming-with-vpn)
 #### 17.1 [Como Netflix & Hulu Detectam & Bloqueiam Conexões VPN](#how-netflix-and-hulu-detect-and-block-vpns)
-### 18. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 17 de junho de 2026)](#detailed-vpn-speed-test-report)
+### 18. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 21 de junho de 2026)](#detailed-vpn-speed-test-report)
 #### 18.1 [Taxas de Sucesso de Conexão por Continente](#vpn-connection-success-rates-by-continent)
 #### 18.2 [Testes de Velocidade VPN em Regiões Globais](#vpn-speed-tests-global-regions)
 #### 18.3 [Taxas de Sucesso de Conexão Netflix por Continente](#netflix-connection-success-rates-by-continent)
@@ -204,7 +204,7 @@ Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e compara
 ### 22. [FlowVPN pra Apple TV – Por Que Se Destaca](#vpn-for-apple-tv)
 ### 23. [Tendências de VPN & Previsões Futuras (2026 & Além)](#vpn-trends-and-future-predictions)
 #### 23.1 [Limitações Comuns de VPN & Como Resolver](#vpn-limitations-and-solutions)
-**Última atualização:** 17 de junho de 2026
+**Última atualização:** 21 de junho de 2026
 
 >Este guia foca no uso real de VPN para streaming, viagens, trabalho remoto, Wi-Fi público e privacidade. Muitos sites apenas copiam listas de marcas, mas não explicam se a VPN serve para assistir a um app específico, proteger uma conexão em hotel ou manter velocidade estável em videochamadas. Aqui reunimos testes de velocidade, tutoriais e critérios práticos para escolher com menos risco.
 
@@ -1451,7 +1451,7 @@ Obrigado por ler nosso guia diário fresco de VPN. Fique seguro, jogue pesado e 
 
 
 <a name="detailed-vpn-speed-test-report"></a>
-## Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 17 de junho de 2026)
+## Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 21 de junho de 2026)
 
 ### Testes de Velocidade VPN em Regiões Globais
 <a name="vpn-speed-tests-global-regions"></a>
