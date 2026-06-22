@@ -46,12 +46,12 @@ O menor preço mensal geralmente aparece em planos longos. Antes de comprar, olh
 
 ## Comparação das quatro VPNs
 
-| VPN | Ponto forte | Melhor para | O que testar |
+| VPN | Ponto forte | Preço de referência | O que testar |
 |---|---|---|---|
-| [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=price) | Preço e simplicidade | Uso diário, viagem, Wi-Fi público | Teste streaming e velocidade antes do fim do reembolso. |
-| [ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063) | Experiência premium | Iniciantes, viagens, streaming | Custa mais que opções economicas. |
-| [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=pt) | Aparelhos ilimitados | Família, casa com várias telas | Melhor preço costuma exigir plano longo. |
-| [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) | Teste curto | Verificar compatibilidade rapidamente | Menos conhecida; teste na sua região. |
+| [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=price) | Preço e simplicidade | US$4,99/mês, US$53,99 no primeiro ano; bem mais barato que ExpressVPN | Teste streaming e velocidade antes do fim do reembolso. |
+| [ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063) | Experiência premium | Premium/caro: cerca de US$3,49-US$4,99/mês em planos longos, mensal US$12,99, renovação geralmente maior | Vale se você aceita pagar por marca, app e suporte. |
+| [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=pt) | Aparelhos ilimitados | A partir de US$1,99/mês; Starter cerca de US$53,73 + impostos; renovação cerca de US$79/ano | Melhor preço costuma exigir plano longo. |
+| [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) | Teste curto | 5 dias de teste; mensal US$6,99; anual promo cerca de US$39,99 | Bom para teste/backup; não é nossa primeira escolha de longo prazo. |
 
 ## Plataformas e cenários para testar antes de pagar
 
@@ -95,10 +95,10 @@ Antes dos jogos, teste em casa, no 4G/5G e em Wi-Fi público. Abra o app de stre
 
 Os preços mudam por país, impostos, moeda, duração do plano e campanha. Para o público em português, mostramos Real brasileiro e equivalente em USD como referência; em Portugal, o checkout pode mostrar EUR. Câmbio guia: 1 USD ≈ R$5,15 (21 de junho de 2026).
 
-- StrongVPN anual: aprox. R$20,45/mês (US$3,97/mês), ou cerca de R$246/ano (US$47,69/ano), antes de impostos.
-- Surfshark plano longo: aprox. R$10,25–11,85/mês (US$1,99–2,30/mês), mas confira impostos, extras e renovação.
-- ExpressVPN é premium e varia por plano/campanha. Se o checkout mostrar US$2,49/mês, equivale a cerca de R$12,80/mês; confirme o total final.
-- FlowVPN: confira trial e plano pago no checkout; se aparecer em USD, converta para BRL só como orientação.
+- StrongVPN anual: US$4,99/mês, US$53,99 no primeiro ano, cerca de R$25,70/mês e R$278/ano antes de impostos. Para compra anual normal, StrongVPN fica bem mais barato que ExpressVPN.
+- ExpressVPN é premium/caro: planos longos podem ficar em torno de US$3,49-US$4,99/mês, mensal US$12,99 e renovação geralmente maior. Confirme total, impostos e renovação.
+- Surfshark plano longo: a partir de US$1,99/mês; Starter cerca de US$53,73 + impostos, renovação cerca de US$79/ano. Forte para muitos aparelhos.
+- FlowVPN: 5 dias de teste, mensal US$6,99, anual promocional cerca de US$39,99 (regular US$49,99). Bom para teste/backup; como VPN principal seguimos priorizando StrongVPN.
 
 ## Teste diário de velocidade VPN
 
