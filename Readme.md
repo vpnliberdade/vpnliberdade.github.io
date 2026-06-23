@@ -141,23 +141,20 @@ Em geral, usar VPN para privacidade e segurança é legal no Brasil, em Portugal
 Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e comparações detalhadas por provedor.
 
 <!-- NEWS_START -->
-#### 23 de junho de 2026 - Notícia de vulnerabilidade no Android 16
-- **Novo bypass de VPN no Android 16 confirmado – E não há correção do Google**: Uma nova falha no Android 16 permite o bypass de VPNs, e não há ainda uma solução disponibilizada pela Google. [Fonte](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlBXLVB3ekNlcHJ2czlEOG82UHkxcHB4X2VMdWJtaHRfYjQwUmIwQmhxUE5BdG5QODNDTnRYbkwxRjJYWEk0NG52ZERXUjg2Zms2WThLTTR6YVBYZ05yRXVEeTl6dGRza05uYlhtcUt6OHpicWZFanVLdzJ3QXZPNm9Yc2kxM2hfdEtqVVp0eTdMcm40cnZveVFkdWVMaUtmUnlvYzhJcF9BNWJ3aHN5WE1VeVVkUQ?oc=5)
+#### 22 de junho de 2026: notícias de VPN, privacidade e cibersegurança
+- **A verificação de idade volta a destacar a privacidade com VPN**: TechRadar afirma que usuários no Reino Unido, Austrália e outros mercados devem avaliar auditorias, política sem registros, criptografia, suporte a dispositivos e riscos de VPN grátis. [Fonte](https://www.techradar.com/vpn/vpn-privacy-security/how-to-choose-an-age-verification-vpn)
 
-#### 23 de junho de 2026 - Empresa de VPN pode deixar o Canadá
-- **Principal provedor de VPN diz que pode deixar o Canadá devido a projeto de lei de acesso legal**: Uma grande fornecedora de VPN ameaça sair do Canadá em resposta a um projeto de lei que demandaria acesso legal a dados de usuários. [Fonte](https://news.google.com/rss/articles/CBMiekFVX3lxTE5TcklGQ0xYR0pVazdWTDZ5R0paN0VWMXF0c1A5dHZHckxCWjVNQTdoM0pUQW5FVzdZWnMxVVQ2bnJpOWZSSW5oTkFadjhvRV9jX2hDNV9ycWNNX1NxeVpWc21xaERlMzItTFdZWUI4dHd0aXJiUER3ZHNn?oc=5)
+#### 22 de junho de 2026: restrições ao Telegram elevam busca por VPN na Índia
+- **Limitações ao Telegram causaram o maior pico de downloads de VPN de 2026 na Índia**: Economic Times relata que muitos usuários recorreram a VPNs e apps alternativos para manter acesso à comunicação. [Fonte](https://m.economictimes.com/news/india/telegram-ban-in-india-triggered-biggest-vpn-download-surge-of-2026/articleshow/131909432.cms)
 
-#### 23 de junho de 2026 - Mundial de Hóquei no Gelo
-- **Como assistir ao Mundial de Hóquei no Gelo de 2026: Transmissões ao vivo GRATUITAS e canais de TV**: Confira como acompanhar o Campeonato Mundial de Hóquei no Gelo de 2026 gratuitamente de qualquer lugar. [Fonte](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXN4SGFOMGs0YWtHZVNpUERjVGpsTFJ2bngxWWtmQi04Rmoydk14Vm5aQlhtSnZESDJoM25BSmtTUUJtbUFmSG1XYXNfWGNFQTlDSG0xdExUdGk0YTE1UVVqZUptNFNRY1RPbFk5TFFLSUQ2b05JQlB0OTMxcmt1MFhDMVRpeFpiTm42NHpQSmJYSElrM3RBSXM0ZlUxTzN4dzdLZDln?oc=5)
+#### 22 de junho de 2026: ofertas VPN para vários dispositivos
+- **Uma oferta vitalícia de VPN para 15 dispositivos ganhou destaque**: New York Post cobriu uma promoção do FastestVPN PRO; o ideal é comparar preço com privacidade, reembolso, velocidade e suporte de longo prazo. [Fonte](https://nypost.com/2026/06/22/shopping/lifetime-vpn-deal-protect-15-devices-with-fastestvpn/)
 
-#### 23 de junho de 2026 - Assistindo Campeonato de Hóquei de 2026
-- **Como assistir à Team Canada no IIHF 2026 gratuitamente de qualquer lugar**: Este artigo fornece guias detalhados sobre como ver os jogos da Team Canada no IIHF 2026 sem custos adicionais. [Fonte](https://news.google.com/rss/articles/CBMilwFBVV95cUxPanEyN2taWjZtZmJybXBiQ1FKWmFJd0lrMmRWT0RQYkhmREpMMjFjTjA1bDdjQUFKeFl1T2o2cFhTWlIwX3liVzFaald2TTc5VGVzRVpTVEtncFFjWmRQRVcxV2hmOWVoMkVsbERpdFpFY3BHODVuNUcya3FKQk5Fcjh4RUpaWHJUWTA3cmxmVHJDOHp4Vklv?oc=5)
+#### Alerta de segurança da semana
+- **Grande vazamento de credenciais reforça o perigo de reutilizar senhas**: TechRadar reportou uma enorme base exposta com usuários, senhas e URLs de login. [Fonte](https://www.techradar.com/pro/security/the-credential-data-leak-is-dangerous-simply-because-of-its-enormous-size-experts-warn-colossal-breach-exposes-24-billion-records-including-personal-info)
 
-#### 23 de junho de 2026 - Copa do Mundo de Futebol 2026
-- **Horários de TV da Copa do Mundo FIFA 2026 nos EUA: Transmissões ao vivo, canais, datas e horários de início**: Informação completa sobre como acompanhar a Copa do Mundo FIFA 2026 nos EUA, incluindo canais e programações. [Fonte](https://news.google.com/rss/articles/CBMiigFBVV95cUxObDVJbUh6aXRFc1hac0NULTN4cTR1a2w4WTN3VU9tdkFBcGdaYVFxaFhaNXZUMVJWbDc1SGdMcTZzNzFQdnFLVTR1U0pHUVhYY0xXUGMybzNROVkyR2lHdnZDTGdrNHNtVG16T0RBZlpNSFVhbHhDdlRTaUFaa2ZHMHB3eGNEaFhVb1E?oc=5)
-
-#### 23 de junho de 2026 - Assistindo Team USA no IIHF 2026
-- **Como assistir à Team USA no IIHF 2026 gratuitamente de qualquer lugar**: Descubra como assistir aos jogos do Team USA no IIHF 2026 sem custo adicional, de qualquer parte do mundo. [Fonte](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWhpQ2lYOTNkbUw1emFPeWFZNlVmZThHN3MxVWYzMzJjNXVtWWt0d041VmlOcGkzcmRMNHpUT0dDbVlONXZSbVFXME5DRjhFZFBZT1dOQXZYV2hUNFJ1V1FsazdYMkR2dm5WbFIwel9jZ0hlbEFqeXVsVEhDbW5lUzNmVkpIM3FsTnFBaDlIay00Z3pDVkVlRkhR?oc=5)
+#### Alerta de privacidade da semana
+- **IPs internas de túneis VPN podem facilitar rastreamento no iOS**: TechRadar destacou pesquisa sobre fingerprinting via IP interna de VPN, lembrando que proteção contra vazamentos importa tanto quanto velocidade. [Fonte](https://www.techradar.com/vpn/vpn-services/security-experts-reveal-proton-is-the-only-vpn-to-avoid-internal-tunnel-ip-fingerprinting-on-ios)
 <!-- NEWS_END -->
 
 
