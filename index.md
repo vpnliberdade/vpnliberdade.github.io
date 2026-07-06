@@ -104,7 +104,7 @@ Preços revisados em 2026-06-22. Para Brasil usamos 1 USD ≈ R$5,15; para Portu
 
 Velocidade de VPN muda por horario, protocolo, servidor, país e internet local. Por isso, uma captura isolada não basta. Mantemos testes repetidos e observamos médias de 7, 14, 30 e 90 dias.
 
-<img src="./image/speed_test/vpn_speed_test_combined.png" alt="Gráfico de velocidade VPN" width="1000"/>
+<img src="./image/speed_test/vpn_speed_test_combined.png?v=20260706-speed" alt="Gráfico de velocidade VPN" width="1000"/>
 
 **Como transformar o teste de velocidade em decisão de compra:** se você pretende comprar por 1 ano, StrongVPN é claramente mais barato que ExpressVPN. Nos testes de velocidade, StrongVPN nem sempre é o mais rápido, mas é suficiente para uso diário, Wi-Fi público, viagem e streaming comum. Se você aceita pagar mais por marca, app premium e estabilidade, ExpressVPN pode fazer sentido.  
 Se várias pessoas ou muitos aparelhos vão usar a VPN, Surfshark combina melhor, mas o preço baixo normalmente exige plano de 2 anos ou longo prazo. FlowVPN é mais adequado para estudantes, testes curtos ou orçamento muito apertado porque tem 3 dias de teste; não é nossa principal escolha de longo prazo.
@@ -326,7 +326,7 @@ Em conexões residenciais típicas (100–500 Mbps), a diferença pros VPNs mais
 <a name="expressvpn-12-months-+-3-months-free"></a>
 ### 2. [ExpressVPN – oferta oficial e preço no checkout](https://go.expressvpn.com/c/3828265/1634695/16063)
 
-<img src="./image/speed_test/w_d.png" alt="Resultados de Teste de Velocidade ExpressVPN" width="1000"/>
+<img src="./image/speed_test/w_d.png?v=20260706-speed" alt="Resultados de Teste de Velocidade ExpressVPN" width="1000"/>
 
 ExpressVPN é amplamente considerada o padrão ouro no mercado de VPN — e com razão. Ela entrega um pacote completo de nível profissional que supera a maioria dos concorrentes em confiabilidade, velocidade e poder de desbloqueio.
 
@@ -443,7 +443,7 @@ Uma das maiores vantagens da **StrongVPN** é o suporte total a pagamentos inter
 
 ### Passo 1: Acesse Nossa Oferta Exclusiva
 Clique no nosso link especial pra pegar o melhor desconto: [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-body&data2=title) → Clique em "Start Now" (veja a captura de tela abaixo).  
-<img src="./image/speed_test/strong_main.png" alt="Página Inicial StrongVPN" width="1000"/>
+<img src="./image/speed_test/strong_main.png?v=20260706-speed" alt="Página Inicial StrongVPN" width="1000"/>
 
 ### Passo 2: Resolva Qualquer Problema de Conexão/Compra
 Se o site não carregar ou a compra falhar (por exemplo, porque você já está em outra VPN ou em área restrita), use o **teste grátis de 1 a 2 dias da FlowVPN** pra contornar o problema com segurança.  
@@ -1460,7 +1460,7 @@ O gráfico abaixo mostra velocidades reais de download (barras azuis) e upload (
 
 **Nota Importante**: Essas são médias de múltiplos testes diários (últimos 7–30 dias, 10–20 conexões/dia). Resultados reais variam pela sua velocidade base de internet, localização exata do servidor, horário, congestionamento de rede e provedor. Use como guia confiável, não garantia absoluta.
 
-<img src="./image/speed_test/vpn_speed_test_region.png" alt="Testes de Velocidade VPN por Região" width="1000"/>
+<img src="./image/speed_test/vpn_speed_test_region.png?v=20260706-speed" alt="Testes de Velocidade VPN por Região" width="1000"/>
 
 ### Taxas de Sucesso de Conexão por Continente
 <a name="vpn-connection-success-rates-by-continent"></a>
@@ -1474,7 +1474,7 @@ Principais conclusões:
 
 No geral: Escolha baseado na sua região principal — as quatro entregam excelente confiabilidade onde mais importa.
 
-<img src="./image/speed_test/vpn_connection_ratio.png" alt="Taxas de Sucesso de Conexão VPN" width="1000"/>
+<img src="./image/speed_test/vpn_connection_ratio.png?v=20260706-speed" alt="Taxas de Sucesso de Conexão VPN" width="1000"/>
 
 
 
@@ -1553,7 +1553,7 @@ Destaques principais:
 
 Escolha baseado na sua localização — essas taxas são médias de testes diários nos últimos 7–30 dias.
 
-<img src="./image/speed_test/vpn_connection_netflix.png" alt="Taxas de Sucesso de Conexão Netflix por Continente" width="1000"/>
+<img src="./image/speed_test/vpn_connection_netflix.png?v=20260706-speed" alt="Taxas de Sucesso de Conexão Netflix por Continente" width="1000"/>
 
 ### Taxas de Sucesso de Conexão Disney+ por Continente
 <a name="disney-plus-connection-success-rates-by-continent"></a>
@@ -1567,7 +1567,7 @@ Destaques:
 
 Selecione sua VPN de acordo com sua região principal e prioridades de streaming.
 
-<img src="./image/speed_test/vpn_connection_disney.png" alt="Taxas de Sucesso de Conexão Disney+ por Continente" width="1000"/>
+<img src="./image/speed_test/vpn_connection_disney.png?v=20260706-speed" alt="Taxas de Sucesso de Conexão Disney+ por Continente" width="1000"/>
 
 
 
@@ -1586,7 +1586,7 @@ Focamos em performers comprovados que desbloqueiam consistentemente Netflix, Dis
 - **[StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-body&data2=title)**: Amada por desempenho sólido e simplicidade. 950+ servidores em 70+ regiões — perfeita pra qualquer localização, ótimo custo-benefício e suporte forte a pagamentos internacionais.
 - **[ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063)**: A "rainha da velocidade" — 3.000+ servidores em 94 países, protocolo Lightway relâmpago e consistência imbatível pra streaming 4K sem travar.
 
-![Visão Geral StrongVPN](./image/speed_test/strong_main.png)  
+![Visão Geral StrongVPN](./image/speed_test/strong_main.png?v=20260706-speed)  
 ![Visão Geral ExpressVPN](./image/exp/1-1.PNG)
 
 ### Passo 2: Instale & Configure Sua VPN
