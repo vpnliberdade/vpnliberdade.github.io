@@ -30,6 +30,12 @@ Serviços de streaming mudam bloqueios o tempo todo. Uma boa VPN precisa ter vel
 
 **Conclusão rápida:** Se você quer pagar uma VPN por um ano, manter o custo sob controle e usar para streaming, futebol, viagem e Wi-Fi público, comece pela [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=buying_conclusion). Se prefere pagar mais por app premium, marca forte e estabilidade, escolha ExpressVPN. Se a casa inteira usa vários aparelhos, Surfshark faz mais sentido. Se você ainda não sabe se sua rede, país ou app de streaming vai funcionar, teste primeiro com FlowVPN antes de assinar um plano longo.
 
+## Teste de compra em 30 minutos
+
+Não escolha só por ranking genérico. Se quer controlar o custo anual, comece pela [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=30min_test), instale no aparelho principal, conecte a um servidor útil e teste por 15-20 minutos o app que você realmente usa: Disney+, Netflix, Globoplay, Prime Video, CazéTV, RTP Play, SIC, TVI, Sport TV ou DAZN.
+
+Se funcionar bem na sua rede e no seu aparelho, talvez você não precise pagar direto o preço premium da ExpressVPN. Use ExpressVPN se app e suporte premium forem prioridade; Surfshark se a casa inteira usa muitos aparelhos; FlowVPN se você ainda quer um teste curto antes de assinar por mais tempo.
+
 ## O que o público em português realmente procura
 
 ### 1. Streaming, futebol e catálogos de outros países
