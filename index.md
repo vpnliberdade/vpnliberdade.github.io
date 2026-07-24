@@ -89,38 +89,6 @@ Para testar streaming com bom custo anual, comece pela [StrongVPN](https://stron
 4. Veja pelo menos 15-30 minutos para checar travamentos.
 5. Se o uso principal não funcionar, compare outra VPN antes do fim do prazo de reembolso.
 
-## Copa do Mundo 2026: VPN para viagem, streaming e sorteio de ingressos
-
-![Estádio de futebol à noite](./image/worldcup/world-cup-2026-stadium.png)
-
-*Illustration created for this site.*
-
-A Copa do Mundo 2026 acontece de 11 de junho a 19 de julho nos Estados Unidos, Canadá e México. Para Brasil e Portugal, o interesse é claro: futebol, streaming, viagem, Wi-Fi de hotel/aeroporto e segurança ao acessar e-mail, banco e contas de ingresso fora de casa.
-
-Para a maioria dos leitores, o primeiro clique mais prático continua sendo [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=worldcup_intro): VPN paga com preço mais equilibrado para viagem, Wi-Fi público, uso diário e testes de streaming antes dos jogos.
-
-ExpressVPN informa que é Official Supporter da FIFA World Cup 2026 e está promovendo um sorteio de 25 pares de ingressos, incluindo fases eliminatórias e um par para a Final. O sorteio é operado pela ExpressVPN; confira termos, disponibilidade e elegibilidade na página oficial.
-
-| Uso durante a Copa | Primeiro clique recomendado | Por quê |
-|---|---|---|
-| VPN paga com preço mais equilibrado | [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=worldcup_block) | Boa para viagem, Wi-Fi público e uso diário |
-| Campanha oficial e sorteio de ingressos | [Oferta ExpressVPN Copa 2026](https://go.expressvpn.com/c/3828265/1481161/16063) | Melhor encaixe com o gancho de Official Supporter |
-| Família e várias telas | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=pt) | Útil para celular, notebook, tablet e TV |
-
-Antes dos jogos, teste em casa, no 4G/5G e em Wi-Fi público. Abra o app de streaming, verifique DNS/WebRTC e veja se a conexão fica estável por 15-30 minutos.
-
-## Brasil e Portugal: futebol, streaming e viagem
-
-Para o público em português, a busca por VPN costuma começar com um problema bem concreto: assistir futebol ou streaming fora de casa, acessar contas brasileiras/portuguesas durante viagem, ou proteger banco e e-mail em Wi-Fi público. Teste sempre o app e o aparelho que você realmente vai usar.
-
-| Situação | O que testar antes de manter a assinatura | Primeira opção prática |
-|---|---|---|
-| Brasil no exterior: Globoplay, CazéTV/YouTube, canais locais e apps esportivos | Login, erro de região, qualidade 1080p/4K, estabilidade durante 15-30 minutos e troca de servidor | [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=br_streaming_table) para custo-benefício; [ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063) para experiência premium |
-| Portugal / Europa: RTP Play, SIC, TVI, Sport TV e streaming em viagem | Servidor europeu, app da TV, legendas, pagamento/localização da conta | ExpressVPN se estabilidade for prioridade; StrongVPN se preço for prioridade |
-| Copa do Mundo 2026 com família ou vários aparelhos | Celular, notebook, Smart TV, Fire TV, Apple TV e uso simultâneo | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=pt_worldcup_devices) |
-| Testar antes de pagar plano longo | Usar 24-72 horas no seu Wi-Fi, 4G/5G e app principal | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) para teste curto, depois escolher a VPN principal |
-
-A regra simples: se você quer comprar por até 1 ano, StrongVPN é o caminho mais claro de preço; se quer a experiência premium e aceita pagar mais, ExpressVPN; se precisa de muitos aparelhos, Surfshark; se ainda está testando compatibilidade, FlowVPN.
 ## Nota sobre preço e moeda local
 
 Preços revisados em 2026-06-22. Para Brasil usamos 1 USD ≈ R$5,15; para Portugal, use o valor em USD como base e converta para EUR se necessário.
