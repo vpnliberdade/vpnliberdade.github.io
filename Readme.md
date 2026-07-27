@@ -89,6 +89,16 @@ Para testar streaming com bom custo anual, comece pela [StrongVPN](https://stron
 4. Veja pelo menos 15-30 minutos para checar travamentos.
 5. Se o uso principal não funcionar, compare outra VPN antes do fim do prazo de reembolso.
 
+## Depois da Copa: viagem, Wi-Fi público e streaming esportivo
+
+![Estádio de futebol à noite](./image/worldcup/world-cup-2026-stadium.png)
+
+*Illustration created for this site.*
+
+A Copa já terminou, mas a necessidade prática continua: viagem, Wi-Fi de hotel e aeroporto, streaming esportivo, reprises, e-mail, banco e contas pessoais em redes desconhecidas. A promoção de ingressos pode sair do ar; o teste real de VPN no seu aparelho e na sua rede continua importante.
+
+Para a maioria dos leitores, o primeiro clique mais prático continua sendo [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=worldcup_block): VPN paga com preço mais equilibrado para viagem, Wi-Fi público, uso diário e testes de streaming. ExpressVPN faz sentido para experiência premium; Surfshark para muitos aparelhos; FlowVPN para teste curto.
+
 ## Nota sobre preço e moeda local
 
 Preços revisados em 2026-06-22. Para Brasil usamos 1 USD ≈ R$5,15; para Portugal, use o valor em USD como base e converta para EUR se necessário.
