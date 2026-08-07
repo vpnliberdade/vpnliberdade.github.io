@@ -213,36 +213,34 @@ Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e compara
 #### 4.1 [Guia de Configuração ExpressVPN – PC, Celular & Tablet](#expressvpn-setup-tutorial)
 ### 5. [Surfshark – Guia Rápido de Compra (Oferta de Dispositivos Ilimitados)](#surfshark-purchase-tutorial)
 ### 6. [FlowVPN – Teste de 3 Dias & Guia de Compra](#flowvpn-purchase-and-free-trial-tutorial)
-### 7. [VPNs a Evitar – Lista de Provedores Não Recomendados (Atualizada em Janeiro de 2026)](#vpn-avoid-list)
+### 7. [VPNs a Evitar – Lista de Provedores Não Recomendados (Atualizada em 2026)](#vpn-avoid-list)
 ### 8. [Padrões de Recomendação de VPN & Recursos Essenciais](#vpn-recommendation-standards-and-essential-features)
 ### 9. [Conhecimento Essencial de VPN que Todo Mundo Deveria Entender](#essential-vpn-knowledge-you-need-to-know)
 #### 9.1 [Double ou Multi-Hop VPNs – Como & Por Que Usar](#double-multi-hop-vpn-uses-benefits)
 #### 9.2 [Como VPNs Afetam a Velocidade da Internet – Real Talk](#vpn-impact-on-network-speed)
 #### 9.3 [Diferenças Entre "Software de Acesso" & VPNs Verdadeiras](#differences-between-access-software-and-vpns)
 #### 9.4 [Por Que & Como Rotacionar/Trocar Provedores de VPN Regularmente pra Mais Segurança](#how-to-rotate-vpn-providers-for-better-security)
-### 10. [Introdução à Criptografia Básica & Princípios de VPN](#introduction-to-basic-cryptography-and-vpn-principles)
-### 11. [O Que Você Pode Fazer com uma VPN + Precauções Importantes](#what-you-can-do-with-a-vpn-and-precautions)
-### 12. [Introdução aos Protocolos Comuns de VPN & Ferramentas](#introduction-to-common-vpn-protocols)
+### 10. [O Que Você Pode Fazer com uma VPN + Precauções Importantes](#what-you-can-do-with-a-vpn-and-precautions)
+### 11. [Introdução aos Protocolos Comuns de VPN & Ferramentas](#introduction-to-common-vpn-protocols)
 #### 12.1 [Diferenças & Casos de Uso: VPN vs. Tor](#differences-and-use-cases-vpn-vs-tor)
 #### 12.2 [VPN vs. Servidores Proxy – Diferenças Chave](#differences-between-vpn-and-proxy-servers)
-### 13. [Análise de Servidores VPN – Dicas Práticas & Insights](#vpn-server-analysis-practical-tips)
+### 12. [Análise de Servidores VPN – Dicas Práticas & Insights](#vpn-server-analysis-practical-tips)
 #### 13.1 [Como Resolver Quedas e Interrupções de Conexão VPN](#how-to-fix-vpn-connection-drops)
 #### 13.2 [Como Manter Sua VPN Sempre Ligada & Confiável](#how-to-keep-vpn-always-active)
-### 14. [Por Que Não Recomendamos VPNs Grátis – Os Riscos Reais](#risks-of-free-vpns-why-we-dont-recommend-them)
-### 15. [Por Que Não Recomendamos Criar Sua Própria VPN](#why-not-build-your-own-vpn)
-### 16. [Melhores Recursos de VPN pra Games – Suba de Nível no Seu Jogo](#vpn-features-for-gaming)
-### 17. [Guia Passo a Passo: Assistir Conteúdo Global de Streaming com uma VPN](#guide-to-streaming-with-vpn)
+### 13. [Por Que Não Recomendamos VPNs Grátis – Os Riscos Reais](#risks-of-free-vpns-why-we-dont-recommend-them)
+### 14. [Por Que Não Recomendamos Criar Sua Própria VPN](#why-not-build-your-own-vpn)
+### 15. [Melhores Recursos de VPN pra Games – Suba de Nível no Seu Jogo](#vpn-features-for-gaming)
+### 16. [Guia Passo a Passo: Assistir Conteúdo Global de Streaming com uma VPN](#guide-to-streaming-with-vpn)
 #### 17.1 [Como Netflix & Hulu Detectam & Bloqueiam Conexões VPN](#how-netflix-and-hulu-detect-and-block-vpns)
-### 18. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 5 de agosto de 2026)](#detailed-vpn-speed-test-report)
+### 17. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 5 de agosto de 2026)](#detailed-vpn-speed-test-report)
 #### 18.1 [Taxas de Sucesso de Conexão por Continente](#vpn-connection-success-rates-by-continent)
 #### 18.2 [Testes de Velocidade VPN em Regiões Globais](#vpn-speed-tests-global-regions)
 #### 18.3 [Taxas de Sucesso de Conexão Netflix por Continente](#netflix-connection-success-rates-by-continent)
 #### 18.4 [Taxas de Sucesso de Conexão Disney+ por Continente](#disney-plus-connection-success-rates-by-continent)
-### 19. [Tutorial de Instalação de VPN no Linux](#vpn-installation-tutorial-on-linux)
-### 20. [Apps & Serviços que Podem Bloquear ou Restringir VPNs](#apps-and-services-that-may-block-vpns)
-### 21. [BitTorrent com VPN – Setup & Melhores Práticas](#bittorrent-with-vpn-setup-tips)
-### 22. [FlowVPN pra Apple TV – Por Que Se Destaca](#vpn-for-apple-tv)
-### 23. [Tendências de VPN & Previsões Futuras (2026 & Além)](#vpn-trends-and-future-predictions)
+### 18. [Tutorial de Instalação de VPN no Linux](#vpn-installation-tutorial-on-linux)
+### 19. [Apps & Serviços que Podem Bloquear ou Restringir VPNs](#apps-and-services-that-may-block-vpns)
+### 20. [BitTorrent com VPN – Setup & Melhores Práticas](#bittorrent-with-vpn-setup-tips)
+### 21. [FlowVPN pra Apple TV – Por Que Se Destaca](#vpn-for-apple-tv)
 #### 23.1 [Limitações Comuns de VPN & Como Resolver](#vpn-limitations-and-solutions)
 **Última atualização:** 5 de agosto de 2026
 
@@ -311,9 +309,6 @@ Depois de testar centenas de VPNs ao longo dos anos, aqui estão minhas principa
 
 <a name="strongvpn-recommendation"></a>
 ### 1. [StrongVPN – Melhor Custo-Benefício](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-body&data2=title)
-<a name="key-features-of-recommended-global-vpns"></a>
-## Principais Recursos das Melhores VPNs Globais ? Resumo
-
 Antes de escolher uma VPN, não olhe só o preço mensal. Para streaming, viagens e trabalho remoto, uma boa VPN precisa entregar um conjunto prático de recursos:
 
 - Apps claras para Windows, macOS, iPhone, Android e, se possível, TV ou roteador.
@@ -673,7 +668,7 @@ Surfshark mantém uma política **no-logs** sólida — auditada independentemen
 
 Teste o provedor com os serviços que você realmente usa e avalie velocidade real, qualidade do app e suporte.
 
-### VPNs a Evitar – Lista de Provedores Não Recomendados (Atualizada em Janeiro de 2026)
+### VPNs a Evitar – Lista de Provedores Não Recomendados (Atualizada em 2026)
 
 Esta tabela lista VPNs que **não recomendamos** com base em testes reais, relatos de usuários e status atual. Motivos incluem desempenho instável, bloqueios frequentes em regiões restritas, preços altos por pouco valor, preocupações de segurança/privacidade, riscos de VPNs grátis (venda de dados, anúncios, malware), abandono ou instabilidade total.
 
@@ -871,7 +866,7 @@ Sempre use esses pra torrent pra evitar throttling do provedor ou avisos.
 
 Teste o provedor com os serviços que você realmente usa e avalie velocidade real, qualidade do app e suporte.
 
-## Problemas Comuns de VPN & Soluções Comprovadas (Edição Fresca 2026)
+## Falhas de conexão: StrongVPN e ExpressVPN
 
 Aqui estão os principais problemas relatados por usuários com nossas VPNs recomendadas — mais os passos exatos que resolvem 95% das vezes. Baseado em troubleshooting real de milhares de usuários e meu uso diário.
 
@@ -946,7 +941,7 @@ Sempre use esses pra torrent pra evitar throttling do provedor ou avisos.
 
 Teste o provedor com os serviços que você realmente usa e avalie velocidade real, qualidade do app e suporte.
 
-## Problemas Comuns de VPN & Soluções Comprovadas (Edição Fresca 2026)
+## Surfshark, renovação e acesso a sites locais
 
 Aqui estão os principais problemas relatados por usuários com nossas VPNs recomendadas — mais os passos exatos que resolvem 95% das vezes. Baseado em troubleshooting real de milhares de usuários e meu uso diário.
 
@@ -959,14 +954,8 @@ O modo NoBorders/Camouflage da Surfshark lida com a maioria dos bloqueios, mas q
 4. **Protocolo**: WireGuard → OpenVPN UDP.
 5. **Chat ao Vivo**: Super responsivo pra ajustes customizados.
 
-### Antes de renovar ExpressVPN: confira o preço de novo
-Ofertas e renovações podem mudar por campanha, país e plano.  
-**Checklist de renovação em 2026**:
-1. Conta nova com e-mail fresco (use +alias tipo seunome+2@gmail.com ou ProtonMail).
-2. Use nosso link: [Oferta ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063) pra pegar a promo de novo.
-3. Instale fresco, depois transfira o uso.
-4. Modo Incognito + limpe cookies antes de cadastrar.
-Mesma coisa pra Surfshark/StrongVPN — e-mails novos = ofertas de novo usuário toda vez. Confira Reddit/Google pra flash sales.
+### Antes de renovar ExpressVPN: compare o custo total
+Ofertas, impostos e preços de renovação podem mudar por campanha, país e duração. Abra a [oferta atual da ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063), compare o valor total com a renovação exibida na sua conta e confirme as regras de cancelamento. Não conte com preço de novo cliente: escolha pelo custo real do próximo período e pelo desempenho nos serviços que você usa.
 
 ### Sites Locais Lentos/Inacessíveis Após Conectar (ExpressVPN/StrongVPN)?
 Roteamento global adiciona latência pra serviços locais (banco, streaming BR).  
@@ -1708,99 +1697,14 @@ Uma VPN aumenta segurança, privacidade e acesso em qualquer SO, mas Linux e Win
 
 **Resumo Final**: Linux dá controle total e segurança pra usuários avançados — Windows vence em simplicidade. Escolha um provedor com bom suporte Linux (nossas top picks têm), mantenha sua distro atualizada e você está pronto.
 
-#### Guia Rápido de Setup no Linux (Usando ExpressVPN/StrongVPN como Exemplos)
-1. **Cadastre-se & Pegue Configs**  
-   Registre pelos nossos links → Faça login no dashboard → Baixe arquivos de configuração OpenVPN/WireGuard (.ovpn ou .conf) pros servidores que preferir.
+#### Configuração Linux em cinco passos
+1. Comece pela **StrongVPN** se prioriza custo-benefício; escolha **ExpressVPN** se prefere uma experiência premium mais guiada. Surfshark atende muitos aparelhos e FlowVPN serve para teste curto.
+2. Baixe o app Linux oficial ou os arquivos OpenVPN/WireGuard na conta do provedor.
+3. Instale o app ou importe a configuração e permita que o Linux crie a interface de rede VPN.
+4. Teste WireGuard primeiro pela velocidade; em hotel, universidade ou empresa que bloqueia a conexão, tente OpenVPN TCP.
+5. Confira IP, DNS e kill switch antes de usar Wi-Fi público. Se o streaming falhar, troque primeiro por outro servidor no mesmo país.
 
-2. **Instale Ferramentas Necessárias** (exemplo Ubuntu/Debian):
-   ```bash
-   sudo apt update
-   sudo apt install openvpn network-manager-openvpn-gnome   # Pra GUI
-   # OU pra WireGuard:
-   sudo apt install wireguard
-
-
-
-## Introdução à Criptografia Básica & Princípios de VPN
-
-### Fundamentos da Criptografia
-
-Criptografia é a arte e ciência da comunicação segura na presença de adversários — prática antiga, mas que explodiu em importância no século 20. Hoje é a base de e-mails seguros, compartilhamento de arquivos, banking online, mensagens e, sim — VPNs. Pra quem navega no mundo digital, entender o básico é essencial pra proteção real.
-
-#### RSA – O Algoritmo Clássico de Chave Pública
-
-RSA (nomeado por Rivest, Shamir, Adleman) é o algoritmo de criptografia assimétrica padrão ouro usado em todo lugar online. Depende de dois números primos grandes pra gerar chave pública (compartilhável) e privada (secreta).
-
-- Chave pública criptografa dados que qualquer um pode te enviar.
-- Chave privada descriptografa — só você lê.
-
-Isso permite troca segura de chaves sem nunca compartilhar segredos. RSA segue seguro em chaves 2048-bit+ contra computadores clássicos, embora ameaças quânticas se aproximem (mais abaixo).
-
-#### Criptografia de Curva Elíptica (ECC)
-
-ECC é um sistema de chave pública moderno e eficiente baseado na matemática de curvas elípticas sobre campos finitos (equações como y² = x³ + ax + b).
-
-- Chaves menores entregam segurança equivalente ao RSA (ex.: 256-bit ECC ≈ 3072-bit RSA).
-- Cálculos mais rápidos, menor consumo de energia — ideal pra dispositivos móveis, TLS/HTTPS, mensagens seguras e protocolos VPN.
-
-É padrão em muitos sistemas (incluindo Bitcoin, TLS 1.3 e VPNs modernas) porque é mais difícil quebrar com a mesma potência computacional.
-
-### Computação Paralela Encontra Criptografia
-
-**Computação paralela** (multi-core CPUs, GPUs, clusters distribuídos) e **criptografia** se cruzam de formas poderosas (e às vezes preocupantes).
-
-#### Computação Paralela na Criptografia
-
-- Geração de chaves & criptografia/descriptografia: Paralelizado pra velocidade em GPUs/CPUs.
-- Quebra de hashes / ataques brute-force: Computação distribuída (ex.: rainbow tables, fazendas de quebra de senhas) divide cargas em milhares de máquinas — acelerando ataques em senhas fracas.
-- Mineração & proof-of-work: Criptomoedas usam hashing paralelo em escala massiva.
-
-#### Criptografia na Computação Paralela
-
-- Protege dados compartilhados entre processadores/nós em clusters/nuvem.
-- Garante confidencialidade (dados criptografados), integridade (hashes/MACs), autenticação (assinaturas digitais).
-- Impede acesso não autorizado em sistemas distribuídos.
-
-**Sinergia & Desafios**: Poder paralelo acelera tanto defesa (criptografia mais forte) quanto ataque (quebra mais rápida). O equilíbrio impulsiona inovação em algoritmos resistentes a quantum e hardware acelerado de crypto.
-
-### Computação Quântica & Criptografia – A Grande Mudança
-
-**Computação quântica** promete acelerações exponenciais — e representa riscos existenciais pra criptografia atual.
-
-#### Ameaças Quânticas à Crypto Clássica
-
-Computadores quânticos (usando qubits, superposição, entrelaçamento) podem rodar o algoritmo de Shor pra fatorar números grandes em tempo polinomial — quebrando RSA e sistemas de chave pública baseados em ECC. O algoritmo de Grover reduz força de chaves simétricas pela metade (ex.: AES-256 vira equivalente a AES-128).  
-Computadores quânticos atuais (2026) estão longe de quebrar RSA 2048-bit — mas ataques "colha agora, descriptografe depois" são preocupação real.
-
-#### Criptografia Pós-Quântica (PQC) & Crypto Quântica
-
-- **Algoritmos Pós-Quânticos**: Padronizados pelo NIST em 2024–2026 (Kyber, Dilithium, Falcon, SPHINCS+) — baseados em lattice, hash, código, resistentes a ataques quânticos. Muitas VPNs já estão migrando.
-- **Distribuição de Chaves Quânticas (QKD)**: Usa princípios quânticos (incerteza de Heisenberg, entrelaçamento) pra detectar espionagem. Teoricamente inquebrável — chaves distribuídas via fótons por fibra/satélite. Já implantado em pilotos na Ásia/Europa; futuras VPNs podem integrar QKD.
-
-**Perspectiva**: Ameaças quânticas estão vindo — mas defesas também. VPNs premium estão adotando híbridos PQC agora. A corrida está rolando.
-
-### IA & Criptografia – Protegendo (e Desafiando) o Futuro
-
-A explosão da **inteligência artificial** se cruza com criptografia de formas transformadoras — fortalecendo e ameaçando segurança.
-
-#### Ascensão da IA na Segurança
-
-IA/ML impulsiona detecção de ameaças (anomalias no tráfego), defesas adaptativas e ataques preditivos. GANs (Redes Adversariais Generativas) criam exemplos adversariais pra testar/fortalecer criptografia.
-
-#### IA na Criptoanálise
-
-- Reconhecimento de padrões quebra senhas/hashes fracas mais rápido.
-- Ataques de canal lateral (vazamentos de energia/tempo) aprimorados por ML.
-- Debates éticos sobre ferramentas de quebra assistidas por IA.
-
-#### IA Fortalecendo Crypto
-
-- Otimiza design de algoritmos (ex.: encontrar curvas/parâmetros mais fortes).
-- Detecta vulnerabilidades em tempo real.
-- Habilita criptografia homomórfica (computar em dados criptografados) e computação segura multi-partes — modelos de IA treinados sem expor dados brutos.
-
-**Conclusão**: IA + criptografia é espada de dois gumes — acelera tanto proteção quanto ataques. O futuro exige sistemas resistentes a quantum e conscientes de IA. VPNs premium (com no-logs auditado, protocolos modernos e prontidão PQC) seguem sendo seu melhor escudo diário nesse cenário em evolução.
-
+<a name="apps-and-services-that-may-block-vpns"></a>
 ## Apps & Serviços que Podem Bloquear ou Restringir VPNs
 
 Alguns apps e serviços detectam e limitam conexões VPN ativamente por motivos como enforcement de copyright, prevenção de fraude, detecção de abuso ou controle de qualidade. Aqui vai o breakdown dos mais comuns:
@@ -1855,27 +1759,6 @@ BitTorrent (e outros protocolos P2P) é ótimo pra compartilhamento rápido de a
    - Teste vazamentos: Verifique ipleak.net com torrent ativo.
 
 **Recomendado**: Comece com **[ExpressVPN – ver oferta oficial vigente](https://go.expressvpn.com/c/3828265/1634695/16063)** — otimizado pra P2P, kill switch, split tunneling e servidores globais; confirme moeda, impostos e renovação no checkout antes de pagar.
-
-## Tendências de VPN & Previsões Futuras (2026 & Além)
-
-O uso de VPN explodiu e vai continuar crescendo. Aqui está o que está por vir:
-
-1. **Privacidade & Segurança Mais Fortes**  
-   Políticas no-logs auditadas, criptografia pós-quântica (resistente a ataques quânticos futuros) e melhor proteção contra vazamentos virarão padrão.
-
-2. **Desempenho Mais Rápido & Eficiente**  
-   Adoção do WireGuard quase universal — espere perda de velocidade quase zero. Seleção de servidor otimizada por IA vai escolher automaticamente o mais rápido/menor ping.
-
-3. **Recursos Mais Inteligentes com IA/ML**  
-   Detecção automática de ameaças, roteamento adaptativo, balanceamento preditivo de carga de servidores e recomendações personalizadas baseadas no seu uso.
-
-4. **Suporte Mais Amplo a Dispositivos & Plataformas**  
-   Apps nativos pra smart TVs, consoles de games, roteadores, dispositivos IoT e até sistemas de infotainment de carro. Ecossistemas multi-dispositivos seamless.
-
-5. **Regulamentação & Mudanças Focadas em Privacidade**  
-   Mais países podem impulsionar leis de proteção de dados — aumentando demanda por VPN. Provedores em paraísos de privacidade (BVI, Suíça) vão prosperar.
-
-**Resumo**: O futuro das VPNs é mais rápido, mais inteligente, mais seguro e mais centrado no usuário. As opções premium de hoje já estão à frente — fique com provedores confiáveis e você estará preparado pro futuro.
 
 ## Limitações Comuns de VPN & Como Resolver
 
