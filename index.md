@@ -27,6 +27,17 @@ Por isso não tratamos “melhor VPN em português” como uma resposta única. 
 
 **Nossa regra:** escolha pela rota e pelo aparelho que você realmente usa. O ranking só vale depois que a VPN passa no teste Brasil-ou-Portugal, na sua moeda e na sua tela principal.
 
+## Brasil e Portugal: teste a rota certa
+
+| Rota real | Plataformas prioritárias | O que costuma decidir a compra |
+|---|---|---|
+| Brasileiro no exterior | Globoplay, CazéTV, Premiere, banco e serviços brasileiros | Servidor brasileiro, reprodução ao vivo, login e custo total em BRL |
+| Pessoa em Portugal viajando | RTP Play, SIC, TVI, Sport TV e serviços portugueses | Servidor em Portugal, app de TV, estabilidade e total em EUR |
+| Brasil para conteúdo internacional | Netflix, Disney+, Prime Video, Max | Catálogo, legenda, aparelho principal e 20 minutos sem travar |
+| Casa com muitas telas | celular, notebook, Fire TV, Apple TV e roteador | Limite de aparelhos, instalação e uso simultâneo |
+
+A ordem continua objetiva: StrongVPN para testar valor anual, ExpressVPN para experiência premium, Surfshark quando muitas telas justificam plano longo e FlowVPN para teste curto.
+
 ## Recomendação rápida por objetivo
 
 | Objetivo | Melhor escolha | Por que faz sentido |
@@ -286,7 +297,7 @@ Wi-Fi público é prático, mas pode ser arriscado. Em redes compartilhadas, uma
 Depois de testar centenas de VPNs ao longo dos anos, aqui estão minhas principais recomendações baseadas na experiência real em negócios internacionais, viagens frequentes e conhecimento profundo em redes. Confira os relatórios frescos de teste de velocidade abaixo pra comparações detalhadas. Como alguém que usa essas ferramentas todo dia, só recomendo serviços que entregam esses recursos essenciais:
 
 - Segurança de alto nível (provedores fora de regiões restritas, preferencialmente em jurisdições no-logs)
-- Estabilidade de conexão s?lida
+- Estabilidade de conexão sólida
 - Velocidade máxima possível
 - Rede enorme de servidores (acesso a muitos países/regiões)
 - Super fácil de usar (conexão com um clique)
@@ -359,7 +370,7 @@ Em conexões residenciais típicas (100–500 Mbps), a diferença pros VPNs mais
 
 ExpressVPN é amplamente considerada o padrão ouro no mercado de VPN — e com razão. Ela entrega um pacote completo de nível profissional que supera a maioria dos concorrentes em confiabilidade, velocidade e poder de desbloqueio.
 
-Oferece apps nativos top de linha pra Windows, macOS, Android, iOS, Linux e mais, além de guias detalhados pra roteadores, Apple TV, Fire TV, PlayStation, Chromebook, Kindle e até smart TVs. Recursos de segurança chave incluem servidores DNS privados (sem vazamentos de terceiros), criptografia militar AES-256-GCM, perfect forward secrecy via troca de chaves Diffie-Hellman, autenticação HMAC pra evitar adulteração, e um kill switch s?lido que corta a internet se a VPN cair — mantendo seu IP real escondido o tempo todo.
+Oferece apps nativos top de linha pra Windows, macOS, Android, iOS, Linux e mais, além de guias detalhados pra roteadores, Apple TV, Fire TV, PlayStation, Chromebook, Kindle e até smart TVs. Recursos de segurança chave incluem servidores DNS privados (sem vazamentos de terceiros), criptografia militar AES-256-GCM, perfect forward secrecy via troca de chaves Diffie-Hellman, autenticação HMAC pra evitar adulteração, e um kill switch sólido que corta a internet se a VPN cair — mantendo seu IP real escondido o tempo todo.
 
 Com **mais de 3.000 servidores em 94 países e 160+ localizações**, ExpressVPN oferece cobertura global imbatível — especialmente forte na Europa, EUA e Ásia (27 países só na Ásia), superando de longe provedores menores como Mozilla VPN (só ~30 países no total). Como uma das maiores e mais ricas em recursos, eles atualizam servidores rapidinho, desbloqueiam Netflix (várias bibliotecas), suportam P2P/torrent, e mantêm uma política no-logs auditada e estrita. A estabilidade de conexão está entre as melhores da indústria — perfeita pra streaming 4K, jogos sem lag (tipo FIFA/EA FC) e trabalho remoto pesado.
 
@@ -389,7 +400,7 @@ Dica de ouro: Baixe o app no Android ou iOS primeiro pra um **teste grátis de 7
 | Split Tunneling                | Sim                                             |
 | Kill Switch                    | Sim (network lock)                              |
 | Protocolos Suportados          | Lightway, OpenVPN UDP, OpenVPN TCP, L2TP/IPSec, IKEv2 |
-| Jurisdição / Sede              | Ilhas Virgens Britânicas (amigável à privacidade) |
+| Jurisdição / Sede              | Países Baixos; aplica-se o GDPR da UE             |
 | Suporte ao Cliente             | Chat ao vivo 24/7, e-mail, base de conhecimento extensa |
 
 
@@ -403,7 +414,7 @@ Dica de ouro: Baixe o app no Android ou iOS primeiro pra um **teste grátis de 7
 
 Ela roda **mais de 3.200 servidores em 65 países e 160+ localizações**, dando cobertura quase universal e desempenho confiável em praticamente qualquer lugar. Apps limpos e intuitivos pra Windows, macOS, iOS, Android, Linux, além de extensões pra Chrome, Firefox e Edge. Inclui Smart DNS pra setup fácil em consoles, smart TVs e outros dispositivos.
 
-Segurança top com criptografia AES-256-GCM, suporte a WireGuard (super rápido), OpenVPN e IKEv2, política no-logs estrita (auditada independentemente), e kill switch pra proteger se a conexão cair. Assim como a ExpressVPN, está sediada nas Ilhas Virgens Britânicas — sem logs de atividade do usuário, só e-mail e dados de cobrança.
+Segurança top com criptografia AES-256-GCM, suporte a WireGuard (super rápido), OpenVPN e IKEv2, política no-logs estrita (auditada independentemente), e kill switch pra proteger se a conexão cair. A Surfshark está sediada nos Países Baixos; o Trust Center publica avaliações externas da política no-logs. Consulte a política atual para dados de conta, cobrança e conexão temporária.
 
 Surfshark brilha no desbloqueio: Netflix em ~20 bibliotecas (EUA, Reino Unido, Japão, França, Itália, Austrália etc.), além de Amazon Prime Video, Disney+, Hulu e mais. Ideal pra streaming pesado, torrent e games online.
 
@@ -441,7 +452,7 @@ FlowVPN entrega velocidades e estabilidade competitivas, muitas vezes igualando 
 - Até **4 conexões simultâneas em dispositivos**
 - Descontos especiais pra estudantes e educadores
 
-### Análise de Política de Privacidade & Comparação dos Principais Provedores de VPN
+### Resumo de privacidade antes da compra
 <a name="privacy-policy-comparison-vpn-providers"></a>
 
 Ao escolher uma VPN, a **política de privacidade** é um dos fatores mais críticos pra proteger seus dados e identidade real. Aqui vai uma comparação clara e lado a lado entre ExpressVPN, StrongVPN e Surfshark — os três mais recomendados neste guia.
@@ -453,11 +464,11 @@ Sediada nas Ilhas Virgens Britânicas (jurisdição amigável à privacidade, se
 A StrongVPN está sediada nos Estados Unidos. Eles também seguem uma política **no-logs** rigorosa para atividade e tráfego do usuário. Embora a jurisdição americana possa gerar preocupações por possíveis pedidos de dados, a StrongVPN afirma que não armazena logs que possam identificar usuários e só cumpre ordens judiciais válidas (o que nunca foi problema na prática para seus usuários).
 
 #### Surfshark
-Assim como a ExpressVPN, a Surfshark está sediada nas Ilhas Virgens Britânicas e segue uma política **no-logs** estrita (auditada independentemente várias vezes). Eles coletam apenas informações mínimas da conta (e-mail e dados de cobrança) e explicitamente não registram atividade, IPs ou histórico de navegação. Nenhum dado é compartilhado com terceiros, exceto sob ordem judicial.
+A Surfshark está sediada nos Países Baixos. Seu Trust Center informa avaliações Deloitte dos compromissos no-logs em 2023 e 2025. Isso oferece evidência externa, mas não substitui a leitura da política vigente.
 
 | Recurso                          | ExpressVPN                     | StrongVPN                  | Surfshark                      |
 |----------------------------------|--------------------------------|----------------------------|--------------------------------|
-| Jurisdição                       | Ilhas Virgens Britânicas       | Estados Unidos             | Ilhas Virgens Britânicas       |
+| Jurisdição                       | Ilhas Virgens Britânicas       | Estados Unidos             | Países Baixos                  |
 | Registra Navegação/Atividade/IP  | Não (no-logs estrito, auditado)| Não (no-logs estrito)      | Não (no-logs estrito, auditado)|
 | Compartilha Dados com Terceiros  | Não, exceto ordem judicial válida | Não, exceto ordem judicial válida | Não, exceto ordem judicial válida |
 
@@ -512,7 +523,7 @@ Pronto — agora você está criptografado, privado e livre pra fazer streaming,
 **Nota**: A ExpressVPN nem sempre oferece gateways de pagamento internacionais diretos em todas as regiões, mas aceita a maioria dos cartões estrangeiros (Visa/MasterCard), PayPal e até Bitcoin. Se tiver problema de acesso, use StrongVPN ou FlowVPN primeiro pra ter uma conexão estável.  
 Dica de mestre: Sempre use nosso link pros descontos e bônus mais frescos.
 
-### Passo 1: Pule pra Oferta Exclusiva
+### Passo 1: Abra a oferta da ExpressVPN
 Clique aqui: [Oferta ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063) → Toque em "Get ExpressVPN" (procure o botão destacado na captura).  
 <img src="./image/exp/1-1.PNG" alt="Página Inicial ExpressVPN" width="1000"/>
 
@@ -562,7 +573,7 @@ As principais opções, ofertas e etapas de configuração estão cobertas. Ante
 <a name="surfshark-purchase-tutorial"></a>
 ## Surfshark – Guia Rápido de Compra (Oferta de Dispositivos Ilimitados)
 
-### Passo 1: Pule pra Oferta Exclusiva
+### Passo 1: Abra a oferta longa da Surfshark
 Clique no nosso link de afiliado especial: [Surfshark – Conexões Ilimitadas](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=pt) → Toque em "Get Surfshark" (veja o botão na captura de tela abaixo).  
 <img src="./image/surfshark/1-1.png" alt="Página Inicial Surfshark" width="1000"/>
 
@@ -627,14 +638,14 @@ Em períodos de alta restrição ou "sensíveis" (ex.: eventos políticos, grand
 
 Teste o provedor com os serviços que você realmente usa e avalie velocidade real, qualidade do app e suporte.
 
-### Análise de Política de Privacidade & Comparação dos Principais Provedores de VPN
+### Evidências de privacidade e limitações
 <a name="privacy-policy-comparison-vpn-providers"></a>
 
 Ao escolher uma VPN, a **política de privacidade** é a coisa mais importante pra proteger sua identidade real, histórico de navegação e dados de olhares curiosos (provedores de internet, governos, hackers). Aqui vai uma comparação sem enrolação, atualizada (em janeiro de 2026) dos três gigantes que recomendamos: **ExpressVPN**, **StrongVPN** e **Surfshark**. Todos os três têm políticas no-logs rigorosas, mas jurisdição, auditorias e transparência fazem muita diferença.
 
 #### ExpressVPN
 Sediada nas **Ilhas Virgens Britânicas** (zero leis de retenção obrigatória de dados, fora das alianças Five/Nine/Fourteen Eyes).  
-ExpressVPN tem o **padrão ouro** de no-logs — auditada independentemente **23 vezes** no total, com a auditoria mais recente da KPMG (a 3ª deles) em 2026 confirmando que a tecnologia TrustedServer só-RAM impede qualquer registro de atividade, endereços IP, histórico de navegação, consultas DNS ou timestamps de conexão. As auditorias são públicas, e eles publicam relatórios de transparência. Se privacidade é inegociável, esse é o benchmark.
+ExpressVPN tem o **padrão ouro** de no-logs — auditada independentemente **23 vezes** no total, com uma terceira avaliação da KPMG publicada em 2025 confirmando que a tecnologia TrustedServer só-RAM impede qualquer registro de atividade, endereços IP, histórico de navegação, consultas DNS ou timestamps de conexão. As auditorias são públicas, e eles publicam relatórios de transparência. Se privacidade é inegociável, esse é o benchmark.
 
 #### StrongVPN
 Sediada nos **Estados Unidos** (parte da aliança Five Eyes, potencial pra demandas legais de dados).  
@@ -644,15 +655,15 @@ StrongVPN aplica uma política clara de **zero logging** — não rastreiam nem 
 
 
 #### Surfshark
-Também sediada nas **Ilhas Virgens Britânicas** (amigável à privacidade, sem leis de retenção de dados).  
-Surfshark mantém uma política **no-logs** s?lida — auditada independentemente várias vezes (a mais recente pela Deloitte em 2026 confirmando que não monitoram nem armazenam atividade online). Eles só guardam dados mínimos da conta (e-mail + cobrança) e deletam timestamps de conexão após 15 minutos. Relatórios de transparência trimestrais mostram zero dados úteis entregues em pedidos judiciais. Ótimo equilíbrio entre privacidade + preço acessível.
+Sediada nos **Países Baixos**, onde a Surfshark afirma que o GDPR da UE se aplica.
+Surfshark mantém uma política **no-logs** sólida — auditada independentemente várias vezes (relatórios de asseguração da Deloitte publicados em 2023 e 2025 confirmando que não monitoram nem armazenam atividade online). Eles só guardam dados mínimos da conta (e-mail + cobrança) e deletam timestamps de conexão após 15 minutos. Relatórios de transparência trimestrais mostram zero dados úteis entregues em pedidos judiciais. Ótimo equilíbrio entre privacidade + preço acessível.
 
 | Recurso                          | ExpressVPN                              | StrongVPN                           | Surfshark                               |
 |----------------------------------|-----------------------------------------|-------------------------------------|-----------------------------------------|
-| Jurisdição                       | Ilhas Virgens Britânicas                | Estados Unidos                      | Ilhas Virgens Britânicas                |
+| Jurisdição                       | Ilhas Virgens Britânicas                | Estados Unidos                      | Países Baixos                           |
 | Registra Navegação/Atividade/IP  | Não (no-logs estrito, +23 auditorias)   | Não (no-logs estrito)               | Não (no-logs estrito, múltiplas auditorias) |
 | Compartilha Dados com Terceiros  | Não, exceto ordem judicial válida       | Não, exceto ordem judicial válida   | Não, exceto ordem judicial válida       |
-| Auditorias Independentes (Recentes) | Sim (KPMG 2026, contínuas)           | Sem auditorias públicas recentes    | Sim (Deloitte 2026)                     |
+| Evidência externa recente        | KPMG 2025                                | Verificar evidências públicas atuais | Deloitte 2025                          |
 | Relatórios de Transparência      | Sim (regulares)                         | Não                                 | Sim (trimestrais)                       |
 
 **Veredito Rápido (Edição 2026)**:  
@@ -1538,7 +1549,7 @@ ExpressVPN entrega consistência premium — ideal pra proteger privacidade em W
 | África          | 48                    | 46                    | 48                       |
 
 #### Velocidades da Surfshark por Tipo de Rede
-Surfshark oferece estabilidade s?lida com dispositivos ilimitados — perfeito pra jogos sem lag em qualquer lugar.
+Surfshark oferece estabilidade sólida com dispositivos ilimitados — perfeito pra jogos sem lag em qualquer lugar.
 
 | Região          | Surfshark 4G (Mbps) | Surfshark 5G (Mbps) | Surfshark Wi-Fi (Mbps) |
 |-----------------|---------------------|---------------------|------------------------|
