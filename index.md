@@ -19,6 +19,14 @@ Esta página foi feita para quem quer:
 
 Serviços de streaming mudam bloqueios o tempo todo. Uma boa VPN precisa ter velocidade, vários servidores, app fácil, suporte e garantia de reembolso. O objetivo não e prometer acesso eterno a qualquer catálogo, mas ajudar você a escolher a opção com menor chance de frustração.
 
+## Nossa visão própria: português não significa um único mercado
+
+Brasil e Portugal compartilham o idioma, mas não compartilham a mesma decisão de compra. O brasileiro pode estar tentando usar Globoplay, CazéTV, Premiere ou um banco durante uma viagem; quem vive em Portugal pode priorizar RTP Play, SIC, TVI, Sport TV e deslocamentos dentro da Europa. O preço também precisa fazer sentido em reais ou euros, e não apenas parecer barato em uma mensalidade exibida em dólares.
+
+Por isso não tratamos “melhor VPN em português” como uma resposta única. Avaliamos o caminho completo: país de origem, país da viagem, plataforma, aparelho, custo total e facilidade de sair do plano se o teste falhar. Uma VPN muito rápida em um servidor distante pode ser pior do que uma opção um pouco mais lenta que mantém o vídeo estável no horário do jogo.
+
+**Nossa regra:** escolha pela rota e pelo aparelho que você realmente usa. O ranking só vale depois que a VPN passa no teste Brasil-ou-Portugal, na sua moeda e na sua tela principal.
+
 ## Recomendação rápida por objetivo
 
 | Objetivo | Melhor escolha | Por que faz sentido |
