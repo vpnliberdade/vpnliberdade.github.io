@@ -5,7 +5,7 @@ description: "VPN Liberdade compara StrongVPN, ExpressVPN, Surfshark e FlowVPN p
 ---
 
 # Melhores VPNs 2026 para Brasil e Portugal: streaming, Wi-Fi público e testes diários
-**Última atualização: 15 de agosto de 2026 - VPN Liberdade**
+**Última atualização: 20 de agosto de 2026 - VPN Liberdade**
 
 VPN Liberdade é um guia prático para quem fala português e quer escolher uma VPN sem cair em promessa exagerada. O foco aqui e simples: streaming, futebol, viagens, Wi-Fi público, privacidade, preço real e velocidade medida com frequência.
 
@@ -121,16 +121,6 @@ Para testar streaming com bom custo anual, comece pela [StrongVPN](https://stron
 4. Veja pelo menos 15-30 minutos para checar travamentos.
 5. Se o uso principal não funcionar, compare outra VPN antes do fim do prazo de reembolso.
 
-## Depois da Copa: viagem, Wi-Fi público e streaming esportivo
-
-![Estádio de futebol à noite](./image/worldcup/world-cup-2026-stadium.png)
-
-*Illustration created for this site.*
-
-A Copa já terminou, mas a necessidade prática continua: viagem, Wi-Fi de hotel e aeroporto, streaming esportivo, reprises, e-mail, banco e contas pessoais em redes desconhecidas. A promoção de ingressos pode sair do ar; o teste real de VPN no seu aparelho e na sua rede continua importante.
-
-Para a maioria dos leitores, o primeiro clique mais prático continua sendo [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=worldcup_block): VPN paga com preço mais equilibrado para viagem, Wi-Fi público, uso diário e testes de streaming. ExpressVPN faz sentido para experiência premium; Surfshark para muitos aparelhos; FlowVPN para teste curto.
-
 ## Nota sobre preço e moeda local
 
 Preços revisados em 2026-06-22. Para Brasil usamos 1 USD ≈ R$5,15; para Portugal, use o valor em USD como base e converta para EUR se necessário.
@@ -181,7 +171,7 @@ Em geral, usar VPN para privacidade e segurança é legal no Brasil, em Portugal
 Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e comparações detalhadas por provedor.
 
 <!-- NEWS_START -->
-#### 15 de agosto de 2026: notícias de VPN, privacidade e cibersegurança
+#### 20 de agosto de 2026: notícias de VPN, privacidade e cibersegurança
 - **NCSC alerta para ataques de e-mail sem clique**: sistemas Zimbra desatualizados podem ser comprometidos quando o usuário apenas visualiza uma mensagem maliciosa; organizações devem corrigir os sistemas e reforçar o monitoramento. [Alerta oficial](https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign)
 - **Firewalls e gateways VPN da Fortinet continuam sendo alvos**: o NCSC recomenda revisar contas e registros, atualizar equipamentos, eliminar senhas reutilizadas e exigir MFA nos acessos VPN e administrativos. [Alerta oficial](https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways)
 - **Mozilla corrige falhas graves no Firefox e Firefox ESR**: o aviso inclui problemas de isolamento de sites, política de mesma origem, escape de sandbox e segurança de memória; confirme que o navegador está atualizado. [Aviso oficial](https://www.mozilla.org/en-US/security/advisories/mfsa2026-69/)
@@ -224,7 +214,7 @@ Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e compara
 ### 15. [Melhores Recursos de VPN pra Games – Suba de Nível no Seu Jogo](#vpn-features-for-gaming)
 ### 16. [Guia Passo a Passo: Assistir Conteúdo Global de Streaming com uma VPN](#guide-to-streaming-with-vpn)
 #### 17.1 [Como Netflix & Hulu Detectam & Bloqueiam Conexões VPN](#how-netflix-and-hulu-detect-and-block-vpns)
-### 17. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 15 de agosto de 2026)](#detailed-vpn-speed-test-report)
+### 17. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 20 de agosto de 2026)](#detailed-vpn-speed-test-report)
 #### 18.1 [Taxas de Sucesso de Conexão por Continente](#vpn-connection-success-rates-by-continent)
 #### 18.2 [Testes de Velocidade VPN em Regiões Globais](#vpn-speed-tests-global-regions)
 #### 18.3 [Taxas de Sucesso de Conexão Netflix por Continente](#netflix-connection-success-rates-by-continent)
@@ -234,7 +224,7 @@ Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e compara
 ### 20. [BitTorrent com VPN – Setup & Melhores Práticas](#bittorrent-with-vpn-setup-tips)
 ### 21. [FlowVPN pra Apple TV – Por Que Se Destaca](#vpn-for-apple-tv)
 #### 23.1 [Limitações Comuns de VPN & Como Resolver](#vpn-limitations-and-solutions)
-**Última atualização:** 15 de agosto de 2026
+**Última atualização:** 20 de agosto de 2026
 
 >Este guia foca no uso real de VPN para streaming, viagens, trabalho remoto, Wi-Fi público e privacidade. Muitos sites apenas copiam listas de marcas, mas não explicam se a VPN serve para assistir a um app específico, proteger uma conexão em hotel ou manter velocidade estável em videochamadas. Aqui reunimos testes de velocidade, tutoriais e critérios práticos para escolher com menos risco.
 
@@ -1472,7 +1462,7 @@ Obrigado por ler nosso guia diário fresco de VPN. Fique seguro, jogue pesado e 
 
 
 <a name="detailed-vpn-speed-test-report"></a>
-## Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 15 de agosto de 2026)
+## Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 20 de agosto de 2026)
 
 ### Testes de Velocidade VPN em Regiões Globais
 <a name="vpn-speed-tests-global-regions"></a>
