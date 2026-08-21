@@ -27,6 +27,18 @@ Por isso não tratamos “melhor VPN em português” como uma resposta única. 
 
 **Nossa regra:** escolha pela rota e pelo aparelho que você realmente usa. O ranking só vale depois que a VPN passa no teste Brasil-ou-Portugal, na sua moeda e na sua tela principal.
 
+## Três níveis de prova para não confundir Brasil e Portugal
+
+Velocidade medida, condição de compra e acesso a uma plataforma são evidências diferentes. Separar as três evita que um bom gráfico vire promessa de funcionamento para qualquer país, operadora ou aplicativo.
+
+| Nível de prova | O que verificamos | Como usar na compra |
+|---|---|---|
+| Medido neste projeto | Gráfico com data e comparação recorrente das quatro VPNs | Compare o desempenho relativo recente, sem esperar a mesma velocidade na sua conexão. |
+| Confirmado no checkout | Total, prazo, impostos, renovação, reembolso e forma de pagamento | No Brasil, confira BRL, cartão e impostos; em Portugal, confirme o total em EUR e a duração. |
+| Testado no seu ambiente | Globoplay, CazéTV, Premiere, RTP Play, SIC, TVI, Sport TV, Smart TV e Wi-Fi de viagem | Rode o app real por 15 a 20 minutos e confira a saída do plano antes de mantê-lo. |
+
+Nosso diferencial não é escolher um vencedor universal em português. É mostrar onde termina o dado público e onde começa o teste que muda entre rota brasileira, rota portuguesa, aparelho, conta e moeda.
+
 ## Brasil e Portugal: teste a rota certa
 
 | Rota real | Plataformas prioritárias | O que costuma decidir a compra |
