@@ -180,6 +180,15 @@ Abaixo ficam notícias VPN, guias de compra, tutoriais de instalação e compara
 <!-- NEWS_END -->
 
 
+## Guias locais: Brasil e Portugal precisam de rotas diferentes
+
+Globoplay precisa de uma rota brasileira; RTP Play, TVI Player e OPTO dependem de uma rota portuguesa e dos direitos de cada programa. Misturar tudo numa única recomendação cria expectativas erradas.
+
+- **Brasil:** [Como testar VPN para Globoplay fora do Brasil sem confundir IP, conta e aparelho](./vpn-globoplay-brasil/)
+- **Portugal:** [Como ver RTP Play, TVI Player e OPTO no estrangeiro: diagnóstico e teste de VPN](./vpn-tv-portuguesa-estrangeiro/)
+
+Os dois guias mantêm a mesma ordem do site: StrongVPN, ExpressVPN, Surfshark, FlowVPN. A escolha final depende da plataforma, do país do servidor, do aparelho e do custo total no checkout.
+
 ## Navegação do Conteúdo
 
 ### 1. [Noções básicas de VPN](#basics-of-unrestricted-access)
