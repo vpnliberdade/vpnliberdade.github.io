@@ -5,7 +5,7 @@ description: "VPN Liberdade compara StrongVPN, ExpressVPN, Surfshark e FlowVPN p
 ---
 
 # Melhores VPNs 2026 para Brasil e Portugal: streaming, Wi-Fi público e testes diários
-**Última atualização: 7 de outubro de 2026 - VPN Liberdade**
+**Última atualização: 14 de outubro de 2026 - VPN Liberdade**
 
 VPN Liberdade não trata Brasil e Portugal como se fossem o mesmo mercado. Quem está fora do Brasil pode querer Globoplay, CazéTV, Premiere ou acesso seguro ao banco; quem viaja a partir de Portugal pode priorizar RTP Play, SIC, TVI, Sport TV e regras da União Europeia. A língua é comum, mas a rota, a moeda, o pagamento e as plataformas não são.
 
@@ -75,7 +75,7 @@ O mercado em português não precisa de uma tradução única. Brasil e Portugal
 Aviso: podemos receber comissão quando uma compra é feita pelos links. Isso não transforma o gráfico em garantia nem substitui o teste no seu aparelho e na sua rede.
 
 <!-- NEWS_START -->
-#### 4 de outubro de 2026: notícias de VPN, privacidade e cibersegurança
+#### 14 de outubro de 2026: notícias de VPN, privacidade e cibersegurança
 - **ExpressVPN já está disponível em aparelhos Amazon Vega OS compatíveis**: usuários de Fire TV, incluindo o Fire TV Stick 4K Select, podem instalar o app pela Amazon Appstore e controlar a conexão com o controle remoto. [Anúncio oficial](https://www.expressvpn.com/blog/expressvpn-amazon-vega-os/)
 - **Vega OS pode enviar algumas consultas DNS fora do túnel VPN**: a ExpressVPN explica que esse é um comportamento do sistema operacional que afeta apps VPN em geral; o tráfego criptografado continua protegido, mas a limitação deve ser conhecida. [Nota oficial](https://www.expressvpn.com/support/troubleshooting/dns-queries-vega-os/)
 - **Proton VPN lança em beta um novo núcleo de protocolos**: Proton Protocols pode ser testado no Windows, Android, iOS/iPadOS e Linux, com foco em estabilidade, resistência à censura e desenvolvimento multiplataforma. [Publicação oficial](https://protonvpn.com/blog/introducing-proton-protocols)
@@ -127,7 +127,7 @@ Os dois guias mantêm a mesma ordem do site: StrongVPN, ExpressVPN, Surfshark, F
 ### 15. [Melhores Recursos de VPN pra Games – Suba de Nível no Seu Jogo](#vpn-features-for-gaming)
 ### 16. [Guia Passo a Passo: Assistir Conteúdo Global de Streaming com uma VPN](#guide-to-streaming-with-vpn)
 #### 17.1 [Como Netflix & Hulu Detectam & Bloqueiam Conexões VPN](#how-netflix-and-hulu-detect-and-block-vpns)
-### 17. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 4 de outubro de 2026)](#detailed-vpn-speed-test-report)
+### 17. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 14 de outubro de 2026)](#detailed-vpn-speed-test-report)
 #### 18.1 [Taxas de Sucesso de Conexão por Continente](#vpn-connection-success-rates-by-continent)
 #### 18.2 [Testes de Velocidade VPN em Regiões Globais](#vpn-speed-tests-global-regions)
 #### 18.3 [Taxas de Sucesso de Conexão Netflix por Continente](#netflix-connection-success-rates-by-continent)
@@ -137,7 +137,7 @@ Os dois guias mantêm a mesma ordem do site: StrongVPN, ExpressVPN, Surfshark, F
 ### 20. [BitTorrent com VPN – Setup & Melhores Práticas](#bittorrent-with-vpn-setup-tips)
 ### 21. [FlowVPN pra Apple TV – Por Que Se Destaca](#vpn-for-apple-tv)
 #### 23.1 [Limitações Comuns de VPN & Como Resolver](#vpn-limitations-and-solutions)
-**Última atualização:** 4 de outubro de 2026
+**Última atualização:** 14 de outubro de 2026
 
 >Este guia foca no uso real de VPN para streaming, viagens, trabalho remoto, Wi-Fi público e privacidade. Muitos sites apenas copiam listas de marcas, mas não explicam se a VPN serve para assistir a um app específico, proteger uma conexão em hotel ou manter velocidade estável em videochamadas. Aqui reunimos testes de velocidade, tutoriais e critérios práticos para escolher com menos risco.
 
@@ -1375,7 +1375,7 @@ Obrigado por ler nosso guia diário fresco de VPN. Fique seguro, jogue pesado e 
 
 
 <a name="detailed-vpn-speed-test-report"></a>
-## Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 4 de outubro de 2026)
+## Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 14 de outubro de 2026)
 
 ### Testes de Velocidade VPN em Regiões Globais
 <a name="vpn-speed-tests-global-regions"></a>
