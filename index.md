@@ -11,7 +11,7 @@ VPN Liberdade não trata Brasil e Portugal como se fossem o mesmo mercado. Quem 
 
 ## Nossa tese: StrongVPN primeiro como teste anual de menor risco
 
-StrongVPN fica em primeiro lugar por uma razão limitada e verificável: a referência de US$54 no primeiro ano, ou US$4,50 por mês antes de impostos, permite testar o uso real sem depender de uma manchete de preço para dois anos. Não dizemos que ela é a mais rápida em toda rede nem que abre todos os serviços para sempre.
+StrongVPN fica em primeiro lugar por uma razão limitada e verificável: a página oficial mostra US$3,97 por mês e cobra US$47,69 no primeiro ano antes de impostos, permitindo testar o uso real sem depender de uma manchete de preço para dois anos. Não dizemos que ela é a mais rápida em toda rede nem que abre todos os serviços para sempre.
 
 Se StrongVPN passar no seu aparelho, na sua rota Brasil-ou-Portugal e no aplicativo que motivou a compra, o custo anual menor vira vantagem concreta. Se falhar durante o reembolso, ExpressVPN é a opção premium de app e suporte; Surfshark atende a casa com muitos aparelhos; FlowVPN permite uma verificação curta.
 
@@ -44,7 +44,7 @@ Referências usadas nesta página: 1 USD ≈ R$5,19 e 1 USD ≈ €0,86. Câmbio
 
 | VPN | Preço de referência | Leitura prática |
 |---|---|---|
-| [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=price) | US$54 no primeiro ano (≈R$280 / €46,44); US$4,50/mês (≈R$23,36 / €3,87) antes de impostos | Teste de um ano mais claro e muito mais barato que ExpressVPN |
+| [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-home&data2=price) | Página oficial: US$3,97/mês (≈R$20,60 / €3,41); US$47,69 (≈R$247 / €41,01) cobrados no primeiro ano antes de impostos | Teste de um ano mais claro e muito mais barato que ExpressVPN |
 | [ExpressVPN](https://go.expressvpn.com/c/3828265/1634695/16063) | 1 ano aprox. US$74,85 (≈R$388 / €64,37); oferta longa US$97,72 (≈R$507 / €84,04); renovação US$99,95/ano (≈R$519 / €85,96) | Pague a diferença apenas se app e suporte premium forem necessários |
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=pt) | Starter longo aprox. US$53,73 (≈R$279 / €46,21) mais impostos; renovação US$79/ano (≈R$410 / €67,94) | Bom custo por aparelho se você realmente usar conexões ilimitadas e aceitar o prazo longo |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) | Teste de 3 dias; US$6,99 mensal; anual promocional US$39,99 (≈R$208 / €34,39), regular US$49,99 | Teste ou reserva; confirme a conversão após o período gratuito |
@@ -379,7 +379,7 @@ Clique no nosso link especial pra pegar o melhor desconto: [StrongVPN](https://s
 Se o site não carregar ou a compra falhar (por exemplo, porque você já está em outra VPN ou em área restrita), use o **teste de 3 dias da FlowVPN** pra contornar o problema com segurança.  
 Cadastre-se aqui: [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) (guia completo de setup mais adiante no artigo).  
 Conecte a um servidor do Reino Unido, depois volte ao link da StrongVPN.  
-O plano anual de referência é de US$54 (≈R$280 / €46,44) no primeiro ano, equivalente a US$4,50 (≈R$23,36 / €3,87) por mês, antes de impostos. Confirme total e renovação no checkout.<br>
+A página oficial mostra US$3,97 por mês (≈R$20,60 / €3,41) e cobra US$47,69 (≈R$247 / €41,01) no primeiro ano, antes de impostos. Confirme total e renovação no checkout.<br>
 <img src="./image/strong/s3-1.png" alt="Plano de Preços StrongVPN" width="1000"/>
 
 ### Passo 3: Escolha Seu Método de Pagamento
