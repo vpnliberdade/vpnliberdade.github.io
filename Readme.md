@@ -49,6 +49,8 @@ Referências usadas nesta página: 1 USD ≈ R$5,19 e 1 USD ≈ €0,86. Câmbio
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=pt) | Starter longo aprox. US$53,73 (≈R$279 / €46,21) mais impostos; renovação US$79/ano (≈R$410 / €67,94) | Bom custo por aparelho se você realmente usar conexões ilimitadas e aceitar o prazo longo |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) | Teste de 3 dias; US$6,99 mensal; anual promocional US$39,99 (≈R$208 / €34,39), regular US$49,99 | Teste ou reserva; confirme a conversão após o período gratuito |
 
+**Atualização de pagamento da StrongVPN (9 de novembro de 2026):** Alipay não está mais disponível. Se você pretendia usá-lo, escolha cartão de crédito/débito UnionPay ou PayPal; confirme as outras opções no checkout atual.
+
 ## Velocidade medida de forma recorrente
 
 Servidor, operadora, horário, protocolo e distância mudam o resultado. O gráfico compara as quatro VPNs dentro do mesmo projeto e mostra tendência relativa; não garante a mesma velocidade na sua casa.
@@ -369,7 +371,7 @@ A Surfshark está sediada nos Países Baixos. Seu Trust Center informa avaliaç�
 <a name="strongvpn-international-payment-tutorial"></a>
 ## StrongVPN – Guia Passo a Passo com Pagamentos Internacionais
 
-Uma das maiores vantagens da **StrongVPN** é o suporte total a pagamentos internacionais — perfeito se você usa cartões estrangeiros, PayPal de outro país ou prefere opções flexíveis. (FlowVPN é outra ótima alternativa se precisar de algo parecido.)
+**Atualização de pagamento (9 de novembro de 2026):** a StrongVPN não oferece mais Alipay. Se você pretendia usá-lo, escolha cartão de crédito/débito UnionPay ou PayPal. Outros métodos podem variar; o checkout atual é a referência final.
 
 ### Passo 1: Acesse Nossa Oferta Exclusiva
 Clique no nosso link especial pra pegar o melhor desconto: [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-body&data2=title) → Clique em "Start Now" (veja a captura de tela abaixo).  
@@ -383,8 +385,7 @@ A página oficial mostra US$3,97 por mês (≈R$20,60 / €3,41) e cobra US$47,6
 <img src="./image/strong/s3-1.png" alt="Plano de Preços StrongVPN" width="1000"/>
 
 ### Passo 3: Escolha Seu Método de Pagamento
-Role até a seção de pagamento. Selecione opções internacionais — eles aceitam a maioria dos cartões de crédito/débito estrangeiros (Visa, MasterCard), PayPal e mais.  
-<img src="./image/strong/s4-1.PNG" alt="Métodos de Pagamento StrongVPN" width="1000"/>
+Role até a seção de pagamento. Alipay não está mais disponível; escolha cartão de crédito/débito UnionPay ou PayPal e confira a opção antes de pagar.
 
 ### Guia Passo a Passo: Configurando StrongVPN em Dispositivos Móveis (Android & iOS)
 
