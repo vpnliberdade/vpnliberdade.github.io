@@ -5,7 +5,7 @@ description: "VPN Liberdade compara StrongVPN, ExpressVPN, Surfshark e FlowVPN p
 ---
 
 # Melhores VPNs 2026 para Brasil e Portugal: streaming, Wi-Fi público e testes diários
-**Última atualização: 17 de novembro de 2026 - VPN Liberdade**
+**Última atualização: 19 de novembro de 2026 - VPN Liberdade**
 
 Esta comparação começa pelo Brasil: preço em reais, Globoplay, CazéTV, Premiere, apps bancários, Smart TV e Wi-Fi de viagem. Portugal continua coberto numa rota própria para RTP Play, SIC, TVI, Sport TV e serviços sujeitos às regras da União Europeia. A língua é comum; servidor, moeda, pagamento e plataformas não são.
 
@@ -48,7 +48,7 @@ Uma VPN muda a rota e o IP. Ela não cria CPF, NIF, cartão local, residência n
 
 ## Preço em reais, euros e dólares
 
-Referências de 16 de novembro de 2026: 1 USD ≈ R$5,73 ([PTAX do Banco Central do Brasil](https://ptax.bcb.gov.br/ptax_internet/consultarUltimaCotacaoDolar.do)) e 1 USD ≈ €0,91 ([taxa de referência do BCE](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html)). Câmbio do cartão, IOF, IVA, impostos e campanha podem alterar o total; confirme o valor cobrado no checkout.
+Referências de 19 de novembro de 2026: 1 USD ≈ R$5,73 ([PTAX do Banco Central do Brasil](https://ptax.bcb.gov.br/ptax_internet/consultarUltimaCotacaoDolar.do)) e 1 USD ≈ €0,91 ([taxa de referência do BCE](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html)). Câmbio do cartão, IOF, IVA, impostos e campanha podem alterar o total; confirme o valor cobrado no checkout.
 
 | VPN | Preço de referência | Leitura prática |
 |---|---|---|
@@ -57,7 +57,7 @@ Referências de 16 de novembro de 2026: 1 USD ≈ R$5,73 ([PTAX do Banco Central
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=pt) | Starter: US$2,49/mês; US$67,23 nos primeiros 27 meses (≈R$385 / €61,18), com IVA/imposto quando aplicável | Bom custo por aparelho se você usar conexões ilimitadas e aceitar o prazo longo |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github) | Teste de 3 dias após criar uma assinatura PayPal pré-aprovada; a cobrança começa automaticamente depois do teste | Só inicie quando puder testar e já souber o preço pós-teste e como cancelar no PayPal |
 
-**Pagamento StrongVPN (17 de novembro de 2026):** Alipay não está disponível no checkout, mesmo que a página portuguesa ainda mostre uma referência antiga. Use o cartão ou PayPal exibido na etapa final; clientes com UnionPay podem usar cartão de crédito ou débito compatível. Não conclua a compra se preço, moeda ou método forem diferentes do esperado.
+**Pagamento StrongVPN (17 de novembro de 2026):** use um cartão ou PayPal exibido no checkout do seu país. Não conclua a compra se moeda, imposto, primeiro débito, renovação ou método forem diferentes do esperado.
 
 ## Teste de compra em 30 minutos
 
@@ -77,7 +77,7 @@ O mercado em português não precisa de uma tradução única. Brasil e Portugal
 Aviso: podemos receber comissão quando uma compra é feita pelos links. Isso não transforma o gráfico em garantia nem substitui o teste no seu aparelho e na sua rede.
 
 <!-- NEWS_START -->
-#### 14 de novembro de 2026: notícias de VPN, privacidade e cibersegurança
+#### 19 de novembro de 2026: notícias de VPN, privacidade e cibersegurança
 - **ExpressVPN já está disponível em aparelhos Amazon Vega OS compatíveis**: usuários de Fire TV, incluindo o Fire TV Stick 4K Select, podem instalar o app pela Amazon Appstore e controlar a conexão com o controle remoto. [Anúncio oficial](https://www.expressvpn.com/blog/expressvpn-amazon-vega-os/)
 - **Vega OS pode enviar algumas consultas DNS fora do túnel VPN**: a ExpressVPN explica que esse é um comportamento do sistema operacional que afeta apps VPN em geral; o tráfego criptografado continua protegido, mas a limitação deve ser conhecida. [Nota oficial](https://www.expressvpn.com/support/troubleshooting/dns-queries-vega-os/)
 - **Proton VPN lança em beta um novo núcleo de protocolos**: Proton Protocols pode ser testado no Windows, Android, iOS/iPadOS e Linux, com foco em estabilidade, resistência à censura e desenvolvimento multiplataforma. [Publicação oficial](https://protonvpn.com/blog/introducing-proton-protocols)
@@ -129,7 +129,7 @@ Os dois guias mantêm a mesma ordem do site: StrongVPN, ExpressVPN, Surfshark, F
 ### 15. [Melhores Recursos de VPN pra Games – Suba de Nível no Seu Jogo](#vpn-features-for-gaming)
 ### 16. [Guia Passo a Passo: Assistir Conteúdo Global de Streaming com uma VPN](#guide-to-streaming-with-vpn)
 #### 17.1 [Como Netflix & Hulu Detectam & Bloqueiam Conexões VPN](#how-netflix-and-hulu-detect-and-block-vpns)
-### 17. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 14 de novembro de 2026)](#detailed-vpn-speed-test-report)
+### 17. [Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 19 de novembro de 2026)](#detailed-vpn-speed-test-report)
 #### 18.1 [Taxas de Sucesso de Conexão por Continente](#vpn-connection-success-rates-by-continent)
 #### 18.2 [Testes de Velocidade VPN em Regiões Globais](#vpn-speed-tests-global-regions)
 #### 18.3 [Taxas de Sucesso de Conexão Netflix por Continente](#netflix-connection-success-rates-by-continent)
@@ -139,7 +139,7 @@ Os dois guias mantêm a mesma ordem do site: StrongVPN, ExpressVPN, Surfshark, F
 ### 20. [BitTorrent com VPN – Setup & Melhores Práticas](#bittorrent-with-vpn-setup-tips)
 ### 21. [FlowVPN pra Apple TV – Por Que Se Destaca](#vpn-for-apple-tv)
 #### 23.1 [Limitações Comuns de VPN & Como Resolver](#vpn-limitations-and-solutions)
-**Última atualização:** 14 de novembro de 2026
+**Última atualização:** 19 de novembro de 2026
 
 >Este guia foca no uso real de VPN para streaming, viagens, trabalho remoto, Wi-Fi público e privacidade. Muitos sites apenas copiam listas de marcas, mas não explicam se a VPN serve para assistir a um app específico, proteger uma conexão em hotel ou manter velocidade estável em videochamadas. Aqui reunimos testes de velocidade, tutoriais e critérios práticos para escolher com menos risco.
 
@@ -370,7 +370,7 @@ A Surfshark está sediada nos Países Baixos. Seu Trust Center informa avaliaç�
 <a name="strongvpn-international-payment-tutorial"></a>
 ## StrongVPN – Guia Passo a Passo com Pagamentos Internacionais
 
-**Atualização de pagamento (9 de novembro de 2026):** a StrongVPN não oferece mais Alipay. Se você pretendia usá-lo, escolha cartão de crédito/débito UnionPay ou PayPal. Outros métodos podem variar; o checkout atual é a referência final.
+**Verificação de pagamento:** use um cartão ou PayPal oferecido no checkout local. Confira moeda, imposto, primeiro débito, endereço de cobrança e renovação antes de confirmar.
 
 ### Passo 1: Acesse Nossa Oferta Exclusiva
 Clique no nosso link especial pra pegar o melhor desconto: [StrongVPN](https://strongvpn.com/pt/?tr_aid=60d96b5810e50&chan=w_github_pt&data1=pt-body&data2=title) → Clique em "Start Now" (veja a captura de tela abaixo).  
@@ -382,7 +382,7 @@ A página portuguesa mostra US$3,97 por mês (≈R$22,75 / €3,61) e US$47,69 (
 <img src="./image/strong/s3-1.png" alt="Plano de Preços StrongVPN" width="1000"/>
 
 ### Passo 3: Escolha Seu Método de Pagamento
-Role até a seção de pagamento. Alipay não está mais disponível no checkout, apesar da referência antiga na página portuguesa. Escolha um cartão disponível ou PayPal; UnionPay de crédito ou débito também é aceito quando exibido.
+Role até a seção de pagamento e escolha um cartão disponível ou PayPal. Confira titular, endereço de cobrança, moeda, primeiro débito e renovação antes de pagar.
 
 ### Guia Passo a Passo: Configurando StrongVPN em Dispositivos Móveis (Android & iOS)
 
@@ -1165,26 +1165,18 @@ Mesmo com uma VPN sólida, rotacionar provedores a cada poucos meses adiciona um
 
 É esforço extra, mas pra usuários de alta privacidade é um hábito inteligente. A maioria fica com um ótimo provedor a longo prazo — mas rotacionar dá paz de espírito.
 
-### FlowVPN pra Apple TV – Por Que Se Destaca
+### Como verificar o FlowVPN na Apple TV
 <a name="vpn-for-apple-tv"></a>
 
-FlowVPN lidera em compatibilidade com Apple TV com seu app dedicado **tvOS** (disponível via TestFlight beta em 2026). Isso traz poder VPN completo direto pra sua sala — liberando bibliotecas globais de streaming, protegendo privacidade de smart-home e burlando geo-bloqueios na Apple TV sem setup complicado no roteador.
+A disponibilidade do FlowVPN na Apple TV pode mudar conforme país, versão do tvOS e distribuição do aplicativo. Consulte primeiro a página oficial atual do [FlowVPN para Apple TV](https://www.flowvpn.com/apple-tv/) e não dependa de convites TestFlight antigos ou expirados.
 
-Principais vantagens:
-- Desbloqueia Netflix, Disney+, BBC iPlayer, Prime Video e mais no mundo todo.
-- Criptografia forte + política no-logs pra streaming seguro.
-- Instalação fácil via TestFlight — sem dores de sideloading.
-- Funciona junto com iPhone/iPad pra controle seamless.
+#### Verificação antes de pagar
+1. Procure o aplicativo oficial na App Store da Apple TV e confira o desenvolvedor.
+2. Confirme compatibilidade com seu modelo, tvOS e país.
+3. Antes de iniciar o [teste de 3 dias](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github), confira no PayPal o valor posterior e o prazo de cancelamento.
+4. Teste login, reprodução, legendas e estabilidade por pelo menos 20 minutos no serviço que você realmente usa.
 
-#### Tutorial de Setup Apple TV (tvOS 17+ Beta)
-1. **Cadastre / Trial**: Crie conta ou use o teste de 3 dias: [FlowVPN – Teste de 3 Dias](https://www.flowvpx.com/sign-up/?locale=pt&special=FREETRIAL&r=35-890485.w_github).
-2. **Instale TestFlight** no iPhone/iPad/Mac: [TestFlight na App Store](https://apps.apple.com/app/testflight/id899247664).
-3. **Entre no Beta FlowVPN**: Acesse [FlowVPN Apple TV Beta](https://www.flowvpn.com/beta-tv) no seu dispositivo iOS/Mac → Resgate código de convite.
-4. **Instale na Apple TV**: Abra TestFlight na Apple TV (baixe da App Store tvOS se precisar) → Instale beta FlowVPN.
-5. **Faça Login & Conecte**: Use suas credenciais → Escolha servidor (ex.: US pra Netflix US, UK pra BBC) → Curta TV com menos bloqueios regionais.
-
-O suporte para Apple TV pode ser útil quando o app e o convite beta continuam disponíveis. Confirme a versão atual, a cobrança do teste e a compatibilidade com seu tvOS antes de depender desse método.
-**FlowVPN pra Apple TV**: Enquanto outros tentam alcançar, FlowVPN está redefinindo o futuro da privacidade e acesso em streaming doméstico.
+Ter um aplicativo compatível não garante que toda plataforma de vídeo funcione em qualquer rede. Decida pelo resultado no seu próprio aparelho.
 
 ### VPNs & Desbloqueio da Netflix – Como Funciona em 2026
 Netflix continua sendo o maior serviço de streaming do mundo, com bibliotecas que mudam drasticamente por país — EUA tem o maior catálogo, enquanto outras regiões recebem séries/filmes diferentes por licenciamento. Uma VPN muda sua localização virtual pra aparecer em país suportado, liberando acesso total.
@@ -1322,7 +1314,7 @@ Obrigado por ler nosso guia diário fresco de VPN. Fique seguro, jogue pesado e 
 
 
 <a name="detailed-vpn-speed-test-report"></a>
-## Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 14 de novembro de 2026)
+## Relatório Detalhado de Testes de Velocidade VPN (Atualização Diária Fresca – 19 de novembro de 2026)
 
 ### Testes de Velocidade VPN em Regiões Globais
 <a name="vpn-speed-tests-global-regions"></a>
